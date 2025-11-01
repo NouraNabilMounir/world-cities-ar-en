@@ -1,0 +1,758 @@
+{
+  "1": [
+    {"id":1,"name":"القاهرة","country_id":1},
+    {"id":2,"name":"الجيزة","country_id":1},
+    {"id":3,"name":"الإسكندرية","country_id":1},
+    {"id":4,"name":"الدقهلية","country_id":1},
+    {"id":5,"name":"الشرقية","country_id":1},
+    {"id":6,"name":"القليوبية","country_id":1},
+    {"id":7,"name":"البحيرة","country_id":1},
+    {"id":8,"name":"الغربية","country_id":1},
+    {"id":9,"name":"المنوفية","country_id":1},
+    {"id":10,"name":"كفر الشيخ","country_id":1},
+    {"id":11,"name":"دمياط","country_id":1},
+    {"id":12,"name":"بورسعيد","country_id":1},
+    {"id":13,"name":"الإسماعيلية","country_id":1},
+    {"id":14,"name":"السويس","country_id":1},
+    {"id":15,"name":"شمال سيناء","country_id":1},
+    {"id":16,"name":"جنوب سيناء","country_id":1},
+    {"id":17,"name":"بني سويف","country_id":1},
+    {"id":18,"name":"الفيوم","country_id":1},
+    {"id":19,"name":"المنيا","country_id":1},
+    {"id":20,"name":"أسيوط","country_id":1},
+    {"id":21,"name":"سوهاج","country_id":1},
+    {"id":22,"name":"قنا","country_id":1},
+    {"id":23,"name":"الأقصر","country_id":1},
+    {"id":24,"name":"أسوان","country_id":1},
+    {"id":25,"name":"البحر الأحمر","country_id":1},
+    {"id":26,"name":"الوادي الجديد","country_id":1},
+    {"id":27,"name":"مطروح","country_id":1}
+  ],
+  "152": [
+    {"id":28,"name":"الرياض","country_id":152},
+    {"id":29,"name":"مكة المكرمة","country_id":152},
+    {"id":30,"name":"المدينة المنورة","country_id":152},
+    {"id":31,"name":"القصيم","country_id":152},
+    {"id":32,"name":"الشرقية","country_id":152},
+    {"id":33,"name":"عسير","country_id":152},
+    {"id":34,"name":"تبوك","country_id":152},
+    {"id":35,"name":"حائل","country_id":152},
+    {"id":36,"name":"الحدود الشمالية","country_id":152},
+    {"id":37,"name":"جازان","country_id":152},
+    {"id":38,"name":"نجران","country_id":152},
+    {"id":39,"name":"الباحة","country_id":152},
+    {"id":40,"name":"الجوف","country_id":152}
+  ],
+  "184": [
+    {"id":41,"name":"دبي","country_id":184},
+    {"id":42,"name":"أبوظبي","country_id":184},
+    {"id":43,"name":"الشارقة","country_id":184},
+    {"id":44,"name":"عجمان","country_id":184},
+    {"id":45,"name":"أم القيوين","country_id":184},
+    {"id":46,"name":"رأس الخيمة","country_id":184},
+    {"id":47,"name":"الفجيرة","country_id":184}
+  ],
+  "2": [
+    {"id":48,"name":"تيرانا","country_id":2},
+    {"id":49,"name":"دوريس","country_id":2},
+    {"id":50,"name":"فيير","country_id":2},
+    {"id":51,"name":"جيروكاستر","country_id":2},
+    {"id":52,"name":"كورتشي","country_id":2},
+    {"id":53,"name":"كوكيس","country_id":2},
+    {"id":54,"name":"ليجي","country_id":2},
+    {"id":55,"name":"شكودرا","country_id":2},
+    {"id":56,"name":"فلورا","country_id":2},
+    {"id":57,"name":"إلباسان","country_id":2},
+    {"id":58,"name":"بيرات","country_id":2},
+    {"id":59,"name":"ديبر","country_id":2}
+  ],
+  "3": [
+    {"id":60,"name":"الجزائر","country_id":3},
+    {"id":61,"name":"وهران","country_id":3},
+    {"id":62,"name":"قسنطينة","country_id":3},
+    {"id":63,"name":"عنابة","country_id":3},
+    {"id":64,"name":"باتنة","country_id":3},
+    {"id":65,"name":"سطيف","country_id":3},
+    {"id":66,"name":"بجاية","country_id":3},
+    {"id":67,"name":"البليدة","country_id":3},
+    {"id":68,"name":"تيارت","country_id":3},
+    {"id":69,"name":"تلمسان","country_id":3}
+  ],
+  "4": [
+    {"id":70,"name":"أندورا لا فيلا","country_id":4}
+  ],
+  "5": [
+    {"id":71,"name":"لواندا","country_id":5},
+    {"id":72,"name":"هوامبو","country_id":5},
+    {"id":73,"name":"لوبيتو","country_id":5},
+    {"id":74,"name":"كابيندا","country_id":5}
+  ],
+  "6": [
+    {"id":75,"name":"سانت جونز","country_id":6}
+  ],
+  "7": [
+    {"id":76,"name":"بوينس آيرس","country_id":7},
+    {"id":77,"name":"كوردوبا","country_id":7},
+    {"id":78,"name":"روزاريو","country_id":7},
+    {"id":79,"name":"ميندوزا","country_id":7},
+    {"id":80,"name":"لا بلاتا","country_id":7}
+  ],
+  "8": [
+    {"id":81,"name":"يريفان","country_id":8},
+    {"id":82,"name":"جيومري","country_id":8}
+  ],
+  "9": [
+    {"id":83,"name":"كانبرا","country_id":9},
+    {"id":84,"name":"سيدني","country_id":9},
+    {"id":85,"name":"ملبورن","country_id":9},
+    {"id":86,"name":"بريزبان","country_id":9},
+    {"id":87,"name":"بيرث","country_id":9},
+    {"id":88,"name":"أديلايد","country_id":9}
+  ],
+  "10": [
+    {"id":89,"name":"فيينا","country_id":10},
+    {"id":90,"name":"غراتس","country_id":10},
+    {"id":91,"name":"لينتس","country_id":10},
+    {"id":92,"name":"سالزبورغ","country_id":10},
+    {"id":93,"name":"إنسبروك","country_id":10}
+  ],
+  "11": [
+    {"id":94,"name":"باكو","country_id":11},
+    {"id":95,"name":"غانجا","country_id":11},
+    {"id":96,"name":"سمغايت","country_id":11}
+  ],
+  "12": [
+    {"id":97,"name":"ناساو","country_id":12}
+  ],
+  "13": [
+    {"id":98,"name":"المنامة","country_id":13}
+  ],
+  "14": [
+    {"id":99,"name":"دكا","country_id":14},
+    {"id":100,"name":"تشيتاغونغ","country_id":14},
+    {"id":101,"name":"خولنا","country_id":14},
+    {"id":102,"name":"راجشاهي","country_id":14}
+  ],
+  "15": [
+    {"id":103,"name":"بريدجتاون","country_id":15}
+  ],
+  "16": [
+    {"id":104,"name":"مينسك","country_id":16},
+    {"id":105,"name":"غوميل","country_id":16},
+    {"id":106,"name":"موغيليوف","country_id":16}
+  ],
+  "17": [
+    {"id":107,"name":"بروكسل","country_id":17},
+    {"id":108,"name":"أنتويرب","country_id":17},
+    {"id":109,"name":"غنت","country_id":17},
+    {"id":110,"name":"لييج","country_id":17}
+  ],
+  "18": [
+    {"id":111,"name":"بليز","country_id":18}
+  ],
+  "19": [
+    {"id":112,"name":"بورتو نوفو","country_id":19},
+    {"id":113,"name":"كوتونو","country_id":19}
+  ],
+  "20": [
+    {"id":114,"name":"ثيمفو","country_id":20}
+  ],
+  "21": [
+    {"id":115,"name":"لاباز","country_id":21},
+    {"id":116,"name":"سانتا كروز","country_id":21},
+    {"id":117,"name":"كوتشابامبا","country_id":21}
+  ],
+  "22": [
+    {"id":118,"name":"سراييفو","country_id":22},
+    {"id":119,"name":"بانيا لوكا","country_id":22}
+  ],
+  "23": [
+    {"id":120,"name":"غابورون","country_id":23}
+  ],
+  "24": [
+    {"id":121,"name":"برازيليا","country_id":24},
+    {"id":122,"name":"ريو دي جانيرو","country_id":24},
+    {"id":123,"name":"ساو باولو","country_id":24},
+    {"id":124,"name":"سالفادور","country_id":24},
+    {"id":125,"name":"فورتاليزا","country_id":24}
+  ],
+  "25": [
+    {"id":126,"name":"بندر سري بكاوان","country_id":25}
+  ],
+  "26": [
+    {"id":127,"name":"صوفيا","country_id":26},
+    {"id":128,"name":"بلوفديف","country_id":26},
+    {"id":129,"name":"فارنا","country_id":26}
+  ],
+  "27": [
+    {"id":130,"name":"واغادوغو","country_id":27}
+  ],
+  "28": [
+    {"id":131,"name":"بوجومبورا","country_id":28}
+  ],
+  "29": [
+    {"id":132,"name":"بنوم بنه","country_id":29}
+  ],
+  "30": [
+    {"id":133,"name":"ياوندي","country_id":30},
+    {"id":134,"name":"دوالا","country_id":30}
+  ],
+  "31": [
+    {"id":135,"name":"أوتاوا","country_id":31},
+    {"id":136,"name":"تورونتو","country_id":31},
+    {"id":137,"name":"مونتريال","country_id":31},
+    {"id":138,"name":"فانكوفر","country_id":31},
+    {"id":139,"name":"كالغاري","country_id":31}
+  ],
+  "32": [
+    {"id":140,"name":"بريدجتاون","country_id":32}
+  ],
+  "33": [
+    {"id":141,"name":"بانغي","country_id":33}
+  ],
+  "34": [
+    {"id":142,"name":"نجامينا","country_id":34}
+  ],
+  "35": [
+    {"id":143,"name":"سانتياغو","country_id":35},
+    {"id":144,"name":"فالبارايسو","country_id":35},
+    {"id":145,"name":"كونسيبسيون","country_id":35}
+  ],
+  "36": [
+    {"id":146,"name":"بكين","country_id":36},
+    {"id":147,"name":"شنغهاي","country_id":36},
+    {"id":148,"name":"غوانزو","country_id":36},
+    {"id":149,"name":"شنتشن","country_id":36},
+    {"id":150,"name":"تيانجين","country_id":36}
+  ],
+  "37": [
+    {"id":151,"name":"بوغوتا","country_id":37},
+    {"id":152,"name":"ميديين","country_id":37},
+    {"id":153,"name":"كالي","country_id":37}
+  ],
+  "38": [
+    {"id":154,"name":"موروني","country_id":38}
+  ],
+  "39": [
+    {"id":155,"name":"برازافيل","country_id":39}
+  ],
+  "40": [
+    {"id":156,"name":"كينشاسا","country_id":40},
+    {"id":157,"name":"لوبومباشي","country_id":40}
+  ],
+  "41": [
+    {"id":158,"name":"سان خوسيه","country_id":41}
+  ],
+  "42": [
+    {"id":159,"name":"زغرب","country_id":42}
+  ],
+  "43": [
+    {"id":160,"name":"هافانا","country_id":43}
+  ],
+  "44": [
+    {"id":161,"name":"نيقوسيا","country_id":44}
+  ],
+  "45": [
+    {"id":162,"name":"براغ","country_id":45},
+    {"id":163,"name":"برنو","country_id":45}
+  ],
+  "46": [
+    {"id":164,"name":"كوبنهاغن","country_id":46},
+    {"id":165,"name":"آرهوس","country_id":46}
+  ],
+  "47": [
+    {"id":166,"name":"جيبوتي","country_id":47}
+  ],
+  "48": [
+    {"id":167,"name":"روزار","country_id":48}
+  ],
+  "49": [
+    {"id":168,"name":"سانتو دومينغو","country_id":49}
+  ],
+  "50": [
+    {"id":169,"name":"ديلي","country_id":50}
+  ],
+  "51": [
+    {"id":170,"name":"كيتو","country_id":51},
+    {"id":171,"name":"غواياكيل","country_id":51}
+  ],
+  "52": [
+    {"id":172,"name":"القاهرة","country_id":52}
+  ],
+  "53": [
+    {"id":173,"name":"سان سلفادور","country_id":53}
+  ],
+  "54": [
+    {"id":174,"name":"مالابو","country_id":54}
+  ],
+  "55": [
+    {"id":175,"name":"أسمرة","country_id":55}
+  ],
+  "56": [
+    {"id":176,"name":"تالين","country_id":56}
+  ],
+  "57": [
+    {"id":177,"name":"مبابان","country_id":57}
+  ],
+  "58": [
+    {"id":178,"name":"أديس أبابا","country_id":58}
+  ],
+  "59": [
+    {"id":179,"name":"سوفا","country_id":59}
+  ],
+  "60": [
+    {"id":180,"name":"هلسنكي","country_id":60}
+  ],
+  "61": [
+    {"id":181,"name":"باريس","country_id":61},
+    {"id":182,"name":"مارسيليا","country_id":61},
+    {"id":183,"name":"ليون","country_id":61}
+  ],
+  "62": [
+    {"id":184,"name":"ليبرفيل","country_id":62}
+  ],
+  "63": [
+    {"id":185,"name":"بانجول","country_id":63}
+  ],
+  "64": [
+    {"id":186,"name":"تبليسي","country_id":64}
+  ],
+  "65": [
+    {"id":187,"name":"برلين","country_id":65},
+    {"id":188,"name":"هامبورغ","country_id":65},
+    {"id":189,"name":"ميونخ","country_id":65},
+    {"id":190,"name":"كولونيا","country_id":65}
+  ],
+  "66": [
+    {"id":191,"name":"أكرا","country_id":66}
+  ],
+  "67": [
+    {"id":192,"name":"أثينا","country_id":67},
+    {"id":193,"name":"سالونيك","country_id":67}
+  ],
+  "68": [
+    {"id":194,"name":"سانت جورجز","country_id":68}
+  ],
+  "69": [
+    {"id":195,"name":"غواتيمالا","country_id":69}
+  ],
+  "70": [
+    {"id":196,"name":"كوناكري","country_id":70}
+  ],
+  "71": [
+    {"id":197,"name":"بيساو","country_id":71}
+  ],
+  "72": [
+    {"id":198,"name":"غيانا","country_id":72}
+  ],
+  "73": [
+    {"id":199,"name":"بورت أو برانس","country_id":73}
+  ],
+  "74": [
+    {"id":200,"name":"تيغوسيغالبا","country_id":74}
+  ],
+  "75": [
+    {"id":201,"name":"بودابست","country_id":75}
+  ],
+  "76": [
+    {"id":202,"name":"ريكيافيك","country_id":76}
+  ],
+  "77": [
+    {"id":203,"name":"نيو دلهي","country_id":77},
+    {"id":204,"name":"مومباي","country_id":77},
+    {"id":205,"name":"بنغالور","country_id":77},
+    {"id":206,"name":"حيدر آباد","country_id":77},
+    {"id":207,"name":"تشيناي","country_id":77}
+  ],
+  "78": [
+    {"id":208,"name":"جاكرتا","country_id":78},
+    {"id":209,"name":"سورابايا","country_id":78},
+    {"id":210,"name":"باندونغ","country_id":78}
+  ],
+  "79": [
+    {"id":211,"name":"طهران","country_id":79},
+    {"id":212,"name":"مشهد","country_id":79},
+    {"id":213,"name":"أصفهان","country_id":79}
+  ],
+  "80": [
+    {"id":214,"name":"بغداد","country_id":80},
+    {"id":215,"name":"البصرة","country_id":80},
+    {"id":216,"name":"أربيل","country_id":80}
+  ],
+  "81": [
+    {"id":217,"name":"دبلن","country_id":81}
+  ],
+  "82": [
+    {"id":218,"name":"تل أبيب","country_id":82},
+    {"id":219,"name":"القدس","country_id":82},
+    {"id":220,"name":"حيفا","country_id":82}
+  ],
+  "83": [
+    {"id":221,"name":"روما","country_id":83},
+    {"id":222,"name":"ميلانو","country_id":83},
+    {"id":223,"name":"نابولي","country_id":83}
+  ],
+  "84": [
+    {"id":224,"name":"أبيدجان","country_id":84},
+    {"id":225,"name":"ياموسوكرو","country_id":84}
+  ],
+  "85": [
+    {"id":226,"name":"كينغستون","country_id":85}
+  ],
+  "86": [
+    {"id":227,"name":"طوكيو","country_id":86},
+    {"id":228,"name":"يوكوهاما","country_id":86},
+    {"id":229,"name":"أوساكا","country_id":86}
+  ],
+  "87": [
+    {"id":230,"name":"عمان","country_id":87}
+  ],
+  "88": [
+    {"id":231,"name":"نور سلطان","country_id":88},
+    {"id":232,"name":"ألماتي","country_id":88}
+  ],
+  "89": [
+    {"id":233,"name":"نيروبي","country_id":89},
+    {"id":234,"name":"مومباسا","country_id":89}
+  ],
+  "90": [
+    {"id":235,"name":"كيريباتي","country_id":90}
+  ],
+  "91": [
+    {"id":236,"name":"بيونغ يانغ","country_id":91}
+  ],
+  "92": [
+    {"id":237,"name":"سيول","country_id":92},
+    {"id":238,"name":"بوسان","country_id":92}
+  ],
+  "93": [
+    {"id":239,"name":"الكويت","country_id":93}
+  ],
+  "94": [
+    {"id":240,"name":"بيشكيك","country_id":94}
+  ],
+  "95": [
+    {"id":241,"name":"فيينتيان","country_id":95}
+  ],
+  "96": [
+    {"id":242,"name":"ريغا","country_id":96}
+  ],
+  "97": [
+    {"id":243,"name":"بيروت","country_id":97}
+  ],
+  "98": [
+    {"id":244,"name":"ماسيرو","country_id":98}
+  ],
+  "99": [
+    {"id":245,"name":"مونروفيا","country_id":99}
+  ],
+  "100": [
+    {"id":246,"name":"طرابلس","country_id":100},
+    {"id":247,"name":"بنغازي","country_id":100}
+  ],
+  "101": [
+    {"id":248,"name":"فادوتس","country_id":101}
+  ],
+  "102": [
+    {"id":249,"name":"فيلنيوس","country_id":102}
+  ],
+  "103": [
+    {"id":250,"name":"لوكسمبورغ","country_id":103}
+  ],
+  "104": [
+    {"id":251,"name":"أنتاناناريفو","country_id":104}
+  ],
+  "105": [
+    {"id":252,"name":"ليلونغوي","country_id":105}
+  ],
+  "106": [
+    {"id":253,"name":"كوالالمبور","country_id":106},
+    {"id":254,"name":"جورج تاون","country_id":106}
+  ],
+  "107": [
+    {"id":255,"name":"ماليه","country_id":107}
+  ],
+  "108": [
+    {"id":256,"name":"باماكو","country_id":108}
+  ],
+  "109": [
+    {"id":257,"name":"فاليتا","country_id":109}
+  ],
+  "110": [
+    {"id":258,"name":"ماجورو","country_id":110}
+  ],
+  "111": [
+    {"id":259,"name":"نواكشوط","country_id":111}
+  ],
+  "112": [
+    {"id":260,"name":"بورت لويس","country_id":112}
+  ],
+  "113": [
+    {"id":261,"name":"مكسيكو سيتي","country_id":113},
+    {"id":262,"name":"غوادالاخارا","country_id":113},
+    {"id":263,"name":"مونتيري","country_id":113}
+  ],
+  "114": [
+    {"id":264,"name":"باليكير","country_id":114}
+  ],
+  "115": [
+    {"id":265,"name":"تشيسيناو","country_id":115}
+  ],
+  "116": [
+    {"id":266,"name":"موناكو","country_id":116}
+  ],
+  "117": [
+    {"id":267,"name":"أولان باتور","country_id":117}
+  ],
+  "118": [
+    {"id":268,"name":"بودغوريتسا","country_id":118}
+  ],
+  "119": [
+    {"id":269,"name":"الرباط","country_id":119},
+    {"id":270,"name":"الدار البيضاء","country_id":119},
+    {"id":271,"name":"فاس","country_id":119}
+  ],
+  "120": [
+    {"id":272,"name":"مابوتو","country_id":120}
+  ],
+  "121": [
+    {"id":273,"name":"نيبيدو","country_id":121},
+    {"id":274,"name":"يانغون","country_id":121}
+  ],
+  "122": [
+    {"id":275,"name":"ويندهوك","country_id":122}
+  ],
+  "123": [
+    {"id":276,"name":"يارين","country_id":123}
+  ],
+  "124": [
+    {"id":277,"name":"كاتماندو","country_id":124}
+  ],
+  "125": [
+    {"id":278,"name":"أمستردام","country_id":125},
+    {"id":279,"name":"روتردام","country_id":125}
+  ],
+  "126": [
+    {"id":280,"name":"ويلينغتون","country_id":126},
+    {"id":281,"name":"أوكلاند","country_id":126}
+  ],
+  "127": [
+    {"id":282,"name":"ماناغوا","country_id":127}
+  ],
+  "128": [
+    {"id":283,"name":"نيامي","country_id":128}
+  ],
+  "129": [
+    {"id":284,"name":"أبوجا","country_id":129},
+    {"id":285,"name":"لاغوس","country_id":129}
+  ],
+  "130": [
+    {"id":286,"name":"سكوبي","country_id":130}
+  ],
+  "131": [
+    {"id":287,"name":"أوسلو","country_id":131}
+  ],
+  "132": [
+    {"id":288,"name":"مسقط","country_id":132}
+  ],
+  "133": [
+    {"id":289,"name":"إسلام آباد","country_id":133},
+    {"id":290,"name":"كراتشي","country_id":133},
+    {"id":291,"name":"لاهور","country_id":133}
+  ],
+  "134": [
+    {"id":292,"name":"نيرو","country_id":134}
+  ],
+  "135": [
+    {"id":293,"name":"بنما","country_id":135}
+  ],
+  "136": [
+    {"id":294,"name":"بورت مورسبي","country_id":136}
+  ],
+  "137": [
+    {"id":295,"name":"أسونسيون","country_id":137}
+  ],
+  "138": [
+    {"id":296,"name":"ليما","country_id":138},
+    {"id":297,"name":"أريكيبا","country_id":138}
+  ],
+  "139": [
+    {"id":298,"name":"مانيلا","country_id":139},
+    {"id":299,"name":"دافاو","country_id":139}
+  ],
+  "140": [
+    {"id":300,"name":"وارسو","country_id":140},
+    {"id":301,"name":"كراكوف","country_id":140}
+  ],
+  "141": [
+    {"id":302,"name":"لشبونة","country_id":141},
+    {"id":303,"name":"بورتو","country_id":141}
+  ],
+  "142": [
+    {"id":304,"name":"الدوحة","country_id":142}
+  ],
+  "143": [
+    {"id":305,"name":"بوخارست","country_id":143}
+  ],
+  "144": [
+    {"id":306,"name":"موسكو","country_id":144},
+    {"id":307,"name":"سانت بطرسبرغ","country_id":144}
+  ],
+  "145": [
+    {"id":308,"name":"كيغالي","country_id":145}
+  ],
+  "146": [
+    {"id":309,"name":"باسيتير","country_id":146}
+  ],
+  "147": [
+    {"id":310,"name":"كاستريس","country_id":147}
+  ],
+  "148": [
+    {"id":311,"name":"كينغستاون","country_id":148}
+  ],
+  "149": [
+    {"id":312,"name":"أبيا","country_id":149}
+  ],
+  "150": [
+    {"id":313,"name":"سان مارينو","country_id":150}
+  ],
+  "151": [
+    {"id":314,"name":"ساو تومي","country_id":151}
+  ],
+  "153": [
+    {"id":315,"name":"دكار","country_id":153}
+  ],
+  "154": [
+    {"id":316,"name":"بلغراد","country_id":154}
+  ],
+  "155": [
+    {"id":317,"name":"فيكتوريا","country_id":155}
+  ],
+  "156": [
+    {"id":318,"name":"فريتاون","country_id":156}
+  ],
+  "157": [
+    {"id":319,"name":"سنغافورة","country_id":157}
+  ],
+  "158": [
+    {"id":320,"name":"براتيسلافا","country_id":158}
+  ],
+  "159": [
+    {"id":321,"name":"ليوبليانا","country_id":159}
+  ],
+  "160": [
+    {"id":322,"name":"هونيارا","country_id":160}
+  ],
+  "161": [
+    {"id":323,"name":"مقديشو","country_id":161}
+  ],
+  "162": [
+    {"id":324,"name":"جوهانسبرغ","country_id":162},
+    {"id":325,"name":"كيب تاون","country_id":162},
+    {"id":326,"name":"ديربان","country_id":162}
+  ],
+  "163": [
+    {"id":327,"name":"جوبا","country_id":163}
+  ],
+  "164": [
+    {"id":328,"name":"مدريد","country_id":164},
+    {"id":329,"name":"برشلونة","country_id":164},
+    {"id":330,"name":"فالنسيا","country_id":164}
+  ],
+  "165": [
+    {"id":331,"name":"كولومبو","country_id":165}
+  ],
+  "166": [
+    {"id":332,"name":"الخرطوم","country_id":166}
+  ],
+  "167": [
+    {"id":333,"name":"باراماريبو","country_id":167}
+  ],
+  "168": [
+    {"id":334,"name":"ستوكهولم","country_id":168}
+  ],
+  "169": [
+    {"id":335,"name":"برن","country_id":169}
+  ],
+  "170": [
+    {"id":336,"name":"دمشق","country_id":170}
+  ],
+  "171": [
+    {"id":337,"name":"تايبيه","country_id":171}
+  ],
+  "172": [
+    {"id":338,"name":"دوشانبي","country_id":172}
+  ],
+  "173": [
+    {"id":339,"name":"دار السلام","country_id":173},
+    {"id":340,"name":"دودوما","country_id":173}
+  ],
+  "174": [
+    {"id":341,"name":"بانكوك","country_id":174}
+  ],
+  "175": [
+    {"id":342,"name":"لومي","country_id":175}
+  ],
+  "176": [
+    {"id":343,"name":"نكوفاء","country_id":176}
+  ],
+  "177": [
+    {"id":344,"name":"بورت أوف سبين","country_id":177}
+  ],
+  "178": [
+    {"id":345,"name":"تونس","country_id":178}
+  ],
+  "179": [
+    {"id":346,"name":"أنقرة","country_id":179},
+    {"id":347,"name":"إسطنبول","country_id":179},
+    {"id":348,"name":"إزمير","country_id":179}
+  ],
+  "180": [
+    {"id":349,"name":"عشق آباد","country_id":180}
+  ],
+  "181": [
+    {"id":350,"name":"فونافوتي","country_id":181}
+  ],
+  "182": [
+    {"id":351,"name":"كمبالا","country_id":182}
+  ],
+  "183": [
+    {"id":352,"name":"كييف","country_id":183}
+  ],
+  "185": [
+    {"id":353,"name":"لندن","country_id":185},
+    {"id":354,"name":"مانشستر","country_id":185},
+    {"id":355,"name":"برمنغهام","country_id":185}
+  ],
+  "186": [
+    {"id":356,"name":"واشنطن","country_id":186},
+    {"id":357,"name":"نيويورك","country_id":186},
+    {"id":358,"name":"لوس أنجلوس","country_id":186},
+    {"id":359,"name":"شيكاغو","country_id":186}
+  ],
+  "187": [
+    {"id":360,"name":"مونتفيدو","country_id":187}
+  ],
+  "188": [
+    {"id":361,"name":"طشقند","country_id":188}
+  ],
+  "189": [
+    {"id":362,"name":"بورت فيلا","country_id":189}
+  ],
+  "190": [
+    {"id":363,"name":"كاراكاس","country_id":190}
+  ],
+  "191": [
+    {"id":364,"name":"هانوي","country_id":191},
+    {"id":365,"name":"مدينة هو تشي منه","country_id":191}
+  ],
+  "192": [
+    {"id":366,"name":"صنعاء","country_id":192}
+  ],
+  "193": [
+    {"id":367,"name":"لوساكا","country_id":193}
+  ],
+  "194": [
+    {"id":368,"name":"هراري","country_id":194}
+  ]
+}

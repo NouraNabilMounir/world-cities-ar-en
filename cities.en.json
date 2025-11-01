@@ -1,0 +1,1000 @@
+{
+  "1": {
+    "1": [
+      "Cairo", "Nasr City", "Maadi", "Heliopolis", "Zamalek", "New Cairo", "6th of October", "Sheikh Zayed", "Hadayek El Ahram",
+      "Haram", "Faisal", "Obour", "Madinaty", "Rehab", "10th of Ramadan", "6th of October City", "Ain Sokhna", "El Gouna",
+      "North Coast", "Dokki", "Mohandessin", "Bulaq Dakrur", "Imbaba", "Omraniya", "Warraq", "Munib", "Talbieh",
+      "Saqqara", "Osim", "Kit Kat", "Barageel", "Manawat", "Nahya", "Koum El Ahmar", "Hawamdiya"
+    ],
+    "2": [
+      "Giza", "Faisal", "Haram", "6th of October", "Sheikh Zayed", "Mohandessin", "Dokki", "Imbaba", "Bulaq Dakrur",
+      "Omraniya", "Warraq", "Munib", "Talbieh", "Saqqara", "Osim", "Kit Kat", "Barageel", "Manawat", "Nahya",
+      "Koum El Ahmar", "Hawamdiya", "New Giza", "Manshiya", "New Warraq"
+    ],
+    "3": [
+      "Alexandria", "Smouha", "San Stefano", "Agami", "Miami", "Stanley", "Laurent", "Manshiya", "Raml",
+      "Sporting", "Kafr Abdo", "Sidi Gaber", "Fleming", "Asafra", "Mandara", "Abu Qir", "Dekheila",
+      "Borg El Arab", "Amreya", "Maamoura", "King Mariout", "Nokheel", "Seyouf", "Montaza"
+    ],
+    "4": [
+      "Mansoura", "Talkha", "Mit Ghamr", "Sinbillawain", "Dekernes", "Gamasa", "Bilqas", "Sherbin", "Gamaliya",
+      "Menia El Nasr", "Tamy Al Amdid", "Mit Salsil", "Manzala", "Kurdi", "Stamoni", "Nabroh", "Mit Khamis"
+    ],
+    "5": [
+      "Zagazig", "Minya El Qamh", "Belbeis", "Abu Kebir", "Hehya", "Derb Negm", "Faqous", "Salhiya", "Qareen",
+      "Kafr Saqr", "10th of Ramadan", "Abu Hammad", "Husseiniya", "Ibrahimiya", "Qanayat", "Mashtul El Souq"
+    ],
+    "6": [
+      "Benha", "Qalyub", "Shubra El Kheima", "Khanka", "Qanater El Khayreya", "Toukh", "Qaha", "Kafr Shukr", "Obour",
+      "Khosous", "Mostorod", "Marg", "Ain Shams", "Matariya", "Zaytoun", "Hadayek El Qobbah", "Rod El Farag", "Shubra"
+    ],
+    "7": [
+      "Damanhur", "Kafr El Dawar", "Rashid", "Edku", "Abu El Matamir", "Housh Eisa", "Mahmoudiya", "Delengat",
+      "Kom Hamada", "Wadi El Natrun", "Nubariya", "Itay El Baroud", "Shubrakhit", "Abu Homos", "Rahmaniya"
+    ],
+    "8": [
+      "Tanta", "Mahalla El Kubra", "Kafr El Zayat", "Zefta", "Santa", "Qutour", "Basyoun", "Samannud", "Manshiya",
+      "Sahel", "Ghar", "Qarya", "Nasiriya", "Gafriya", "New Mahalla"
+    ],
+    "9": [
+      "Shebin El Kom", "Menouf", "Quesna", "Bagour", "Sadat", "Birket El Sabaa", "Tala", "Ashmoun", "Shohada",
+      "Seryaqus", "New Sadat", "Sadat City"
+    ],
+    "10": [
+      "Kafr El Sheikh", "Desouk", "Fuwwah", "Baltim", "Motobas", "Hamoul", "Sidi Salem", "Riyadh", "Bella",
+      "Brolos", "Baltim Resort", "Qellin", "Qanah"
+    ]
+  },
+  "152": {
+    "28": [
+      "Riyadh", "Olaya", "Malaz", "Naseem", "Rawdah", "Sulaymaniyah", "Wurood", "Nakheel", "Sahafa",
+      "Ghadeer", "Malqa", "Yarmouk", "Rabwah", "Falah", "Rimal", "Munsiyah", "Rawabi", "Uraija"
+    ],
+    "29": [
+      "Jeddah", "Hamra", "Raways", "Safa", "Rawdah", "Salama", "Faisaliyah", "Basateen", "University",
+      "Rehab", "Naseem", "Manar", "Samer", "Andalus", "Corniche", "North Obhur", "South Obhur"
+    ],
+    "30": [
+      "Madinah", "Awali", "Quba", "Ared", "Khaldiyah", "King Fahd", "Noor", "Salam"
+    ],
+    "31": [
+      "Buraidah", "Unaizah", "Ras", "Bukayriyah", "Nabhaniyah", "Uyun Al Jawa", "Shamasiyah"
+    ],
+    "32": [
+      "Dammam", "Khobar", "Dhahran", "Qatif", "Ras Tanura", "Safwa", "Awamiya", "Tarut"
+    ]
+  },
+  "184": {
+    "41": [
+      "Dubai", "Marina", "Jumeirah", "Business Bay", "Dubai Hills", "Deira", "Bur Dubai", "Barsha",
+      "Quoz", "Jebel Ali", "Murqabat", "Ras", "Garhoud", "Khawaneej", "Warqa", "Dubai Sports City"
+    ],
+    "42": [
+      "Abu Dhabi", "Khalidiyah", "Reef", "Zayed City", "Muroor", "Manhal", "Corniche", "Saadiyat Island",
+      "Reem Island", "Khalifa A", "Khalifa B", "Mussafah", "Mohammed Bin Zayed City"
+    ],
+    "43": [
+      "Sharjah", "Khan", "Qasimia", "Nahda", "Nabaa", "Muwailih", "Industrial", "Yarmouk"
+    ]
+  },
+  "142": {
+    "304": [
+      "Doha", "Al Rayyan", "Al Wakrah", "Al Khor", "Umm Salal", "Al Shamal", "Dukhan", "Al Khor City"
+    ]
+  },
+  "93": {
+    "239": [
+      "Kuwait City", "Hawalli", "Farwaniya", "Ahmadi", "Mubarak Al Kabeer", "Jahra", "Salmiya",
+      "Jabriya", "Mishref", "Rawdah", "Shuwaikh", "Dasman", "Kaifan"
+    ]
+  },
+  "87": {
+    "230": [
+      "Amman", "Zarqa", "Irbid", "Aqaba", "Mafraq", "Jerash", "Ajloun", "Madaba", "Karak",
+      "Tafilah", "Ma'an", "Balqa", "Salt", "Ruseifa", "Sahab", "Marka", "Jawa",
+      "Quwaysma", "Wadi Al-Seer", "Jubeiha", "Tla' Al-Ali", "Khalda", "Abu Nsair"
+    ]
+  },
+  "97": {
+    "243": [
+      "Beirut", "Tripoli", "Sidon", "Zahle", "Jounieh", "Baalbek", "Nabatieh", "Tyre",
+      "Jezzine", "Bint Jbeil", "Marjaayoun", "Hasbaya", "Rachaya", "Baabda", "Matn",
+      "Kesrouan", "Chouf", "Aley", "Byblos", "Hermel"
+    ]
+  },
+  "10": {
+    "9": [
+      "Ramallah", "Hebron", "Nablus", "Jenin", "Tulkarm", "Qalqilya", "Salfit", "Jericho",
+      "Bethlehem", "Jerusalem", "Gaza", "Khan Younis", "Rafah", "Deir al-Balah", "Jabalia",
+      "Beit Hanoun", "Beit Lahia"
+    ]
+  },
+  "170": {
+    "336": [
+      "Damascus", "Aleppo", "Homs", "Latakia", "Hama", "Deir ez-Zor", "Raqqa", "Idlib",
+      "Daraa", "Suwayda", "Tartus", "Hasakah", "Quneitra", "Damascus Countryside",
+      "Qamishli", "Ayn al-Arab", "Manbij", "Jarablus"
+    ]
+  },
+  "80": {
+    "214": [
+      "Baghdad", "Basra", "Erbil", "Najaf", "Karbala", "Sulaymaniyah", "Mosul",
+      "Kirkuk", "Nasiriyah", "Amarah", "Hillah", "Diwaniyah", "Samarra",
+      "Ramadi", "Fallujah", "Kut", "Samawah", "Duhok", "Zubayr"
+    ]
+  },
+  "192": {
+    "366": [
+      "Sana'a", "Aden", "Taiz", "Hodeidah", "Ibb", "Dhamar", "Mukalla", "Sayun",
+      "Al Mahrah", "Hadramaut", "Shabwah", "Abyan", "Lahij", "Al Bayda", "Marib"
+    ]
+  },
+  "178": {
+    "345": [
+      "Tunis", "Sfax", "Sousse", "Kairouan", "Bizerte", "Gabès", "Medenine", "Tataouine",
+      "Jendouba", "Kef", "Siliana", "Nabeul", "Manouba", "Ariana", "Béja"
+    ]
+  },
+  "119": {
+    "269": [
+      "Rabat", "Casablanca", "Fes", "Marrakesh", "Agadir", "Tangier", "Oujda",
+      "Meknes", "Tetouan", "Kenitra", "Mohammedia", "Asilah", "El Jadida",
+      "Settat", "Berrechid", "Khenifra", "Khemisset"
+    ]
+  },
+  "3": {
+    "60": [
+      "Algiers", "Oran", "Constantine", "Annaba", "Batna", "Sétif", "Béjaïa",
+      "Blida", "Tiaret", "Tlemcen", "Médéa", "Mostaganem", "Chlef",
+      "Boumerdès", "El Oued", "Skikda", "Jijel", "Aïn Témouchent"
+    ]
+  },
+  "100": {
+    "246": [
+      "Tripoli", "Benghazi", "Misrata", "Zawiya", "Sirte", "Sabha", "Ghadames",
+      "Ghat", "Khoms", "Zliten", "Marj", "Derna", "Tobruk", "Ajdabiya"
+    ]
+  },
+  "162": {
+    "324": [
+      "Johannesburg", "Cape Town", "Durban", "Pretoria", "Port Elizabeth", "Bloemfontein",
+      "Polokwane", "Nelspruit", "East London", "Pietermaritzburg", "Rustenburg",
+      "Germiston", "Kempton Park", "Vereeniging", "Springs", "Welkom"
+    ]
+  },
+  "129": {
+    "284": [
+      "Lagos", "Abuja", "Ibadan", "Kano", "Port Harcourt", "Enugu", "Kaduna",
+      "Benin City", "Maiduguri", "Ilorin", "Jos", "Zaria", "Warri", "Aba",
+      "Onitsha", "Sokoto", "Oyo", "Akure", "Calabar", "Osogbo"
+    ]
+  },
+  "89": {
+    "233": [
+      "Nairobi", "Mombasa", "Kisumu", "Nakuru", "Eldoret", "Thika", "Kitale",
+      "Malindi", "Kakamega", "Kericho", "Nyeri", "Meru", "Garissa",
+      "Lamu", "Old Mombasa", "Mataru", "Kilifi"
+    ]
+  },
+  "58": {
+    "178": [
+      "Addis Ababa", "Dire Dawa", "Mekelle", "Gondar", "Bahir Dar", "Awasa",
+      "Jimma", "Shashemene", "Adigrat", "Dessie", "Harar", "Jijiga", "Asosa",
+      "Arba Minch", "Nazret", "Debre Zeit"
+    ]
+  },
+  "66": {
+    "191": [
+      "Accra", "Kumasi", "Tamale", "Takoradi", "Cape Coast", "Sekondi",
+      "Obuasi", "Techiman", "Ho", "Koforidua", "Sunyani", "Nkoranza",
+      "Agogo", "Bolgatanga", "Yendi"
+    ]
+  },
+  "166": {
+    "332": [
+      "Khartoum", "Omdurman", "Bahri", "Nyala", "Port Sudan", "Kassala", "El Obeid",
+      "Wad Madani", "El Fasher", "Kosti", "El Gedaref", "Sennar", "Dongola", "Atbara",
+      "Kadugli", "Damazin"
+    ]
+  },
+  "5": {
+    "71": [
+      "Luanda", "Huambo", "Lobito", "Cabinda", "Malanje", "Saurimo", "Kuito",
+      "Lubango", "Benguela", "Caluquembe", "Namibe", "Menongue", "Sumbe"
+    ]
+  },
+  "119": {
+    "269": [
+      "Rabat", "Casablanca", "Fes", "Marrakesh", "Agadir", "Tangier", "Oujda",
+      "Meknes", "Tetouan", "Kenitra", "Mohammedia", "Asilah", "El Jadida",
+      "Settat", "Berrechid", "Khenifra", "Khemisset", "Tiznit", "Laayoune"
+    ]
+  },
+  "178": {
+    "345": [
+      "Tunis", "Sfax", "Sousse", "Kairouan", "Bizerte", "Gabès", "Medenine", "Tataouine",
+      "Jendouba", "Kef", "Siliana", "Nabeul", "Manouba", "Ariana", "Béja",
+      "Monastir", "Mahdia", "Gafsa", "Tozeur"
+    ]
+  },
+  "3": {
+    "60": [
+      "Algiers", "Oran", "Constantine", "Annaba", "Batna", "Sétif", "Béjaïa",
+      "Blida", "Tiaret", "Tlemcen", "Médéa", "Mostaganem", "Chlef",
+      "Boumerdès", "El Oued", "Skikda", "Jijel", "Aïn Témouchent", "Ghardaïa"
+    ]
+  },
+  "100": {
+    "246": [
+      "Tripoli", "Benghazi", "Misrata", "Zawiya", "Sirte", "Sabha", "Ghadames",
+      "Ghat", "Khoms", "Zliten", "Marj", "Derna", "Tobruk", "Ajdabiya",
+      "Brega", "Kufra", "Jufra"
+    ]
+  },
+  "61": {
+    "181": [
+      "Paris", "Marseille", "Lyon", "Toulouse", "Nice", "Nantes", "Strasbourg",
+      "Montpellier", "Bordeaux", "Lille", "Rennes", "Reimsms", "Le Havre", "Saint-Étienne",
+      "Toulon", "Grenoble", "Dijon", "Angers", "Nîmes", "Villeurbanne"
+    ]
+  },
+  "65": {
+    "187": [
+      "Berlin", "Hamburg", "Munich", "Cologne", "Frankfurt", "Stuttgart",
+      "Düsseldorf", "Dortmund", "Essen", "Leipzig", "Bremen", "Dresden",
+      "Hanover", "Nuremberg", "Duisburg", "Bochum", "Wuppertal", "Bielefeld",
+      "Bonn", "Münster"
+    ]
+  },
+  "185": {
+    "353": [
+      "London", "Manchester", "Birmingham", "Leeds", "Glasgow", "Liverpool",
+      "Southampton", "Newcastle", "Nottingham", "Sheffield", "Bristol",
+      "Belfast", "Leicester", "Edinburgh", "Brighton", "Burnley", "Coventry",
+      "Cardiff", "Swansea", "Blackpool"
+    ]
+  },
+  "83": {
+    "221": [
+      "Rome", "Milan", "Naples", "Turin", "Palermo", "Genoa", "Bologna",
+      "Florence", "Bari", "Catania", "Venice", "Verona", "Messina",
+      "Padua", "Trieste", "Prato", "Taranto", "Brescia", "Reggio Calabria",
+      "Modena"
+    ]
+  },
+  "164": {
+    "328": [
+      "Madrid", "Barcelona", "Valencia", "Seville", "Zaragoza", "Málaga",
+      "Murcia", "Palma de Mallorca", "Las Palmas", "Bilbao", "Alicante",
+      "Córdoba", "Valladolid", "Vigo", "Gijón", "L'Hospitalet", "Vitoria",
+      "A Coruña", "Granada", "Elche"
+    ]
+  },
+  "144": {
+    "306": [
+      "Moscow", "Saint Petersburg", "Novosibirsk", "Yekaterinburg", "Nizhny Novgorod",
+      "Kazan", "Chelyabinsk", "Omsk", "Samara", "Rostov-on-Don",
+      "Ufa", "Krasnoyarsk", "Voronezh", "Perm", "Volgograd", "Krasnodar",
+      "Saratov", "Tyumen", "Tolyatti", "Izhevsk"
+    ]
+  },
+  "140": {
+    "300": [
+      "Warsaw", "Kraków", "Łódź", "Wrocław", "Poznań", "Gdańsk", "Szczecin",
+      "Bydgoszcz", "Lublin", "Katowice", "Białystok", "Gdynia", "Częstochowa",
+      "Radom", "Sosnowiec", "Toruń", "Kielce", "Gliwice", "Zabrze",
+      "Bielsko-Biała"
+    ]
+  },
+  "183": {
+    "352": [
+      "Kyiv", "Kharkiv", "Odesa", "Dnipro", "Donetsk", "Zaporizhzhia",
+      "Lviv", "Kryvyi Rih", "Mykolaiv", "Mariupol", "Luhansk", "Vinnytsia",
+      "Makiivka", "Simferopol", "Kherson", "Poltava", "Chernihiv", "Cherkasy",
+      "Zhytomyr", "Sumy"
+    ]
+  },
+  "36": {
+    "146": [
+      "Beijing", "Shanghai", "Guangzhou", "Shenzhen", "Tianjin", "Chongqing", "Wuhan",
+      "Dongguan", "Chengdu", "Hong Kong", "Nanjing", "Xi'an", "Hangzhou",
+      "Shenyang", "Harbin", "Suzhou", "Jinan", "Qingdao", "Dalian", "Kunming"
+    ]
+  },
+  "77": {
+    "203": [
+      "New Delhi", "Mumbai", "Bangalore", "Hyderabad", "Ahmedabad", "Chennai",
+      "Kolkata", "Surat", "Pune", "Jaipur", "Lucknow", "Kanpur", "Nagpur",
+      "Indore", "Thane", "Bhopal", "Visakhapatnam", "Patna", "Vadodara", "Ghaziabad"
+    ]
+  },
+  "86": {
+    "227": [
+      "Tokyo", "Yokohama", "Osaka", "Nagoya", "Sapporo", "Kobe", "Kyoto",
+      "Fukuoka", "Kawasaki", "Saitama", "Hiroshima", "Sendai", "Chiba",
+      "Kitakyushu", "Sakai", "Niigata", "Hamamatsu", "Kumamoto", "Sagamihara",
+      "Okayama"
+    ]
+  },
+  "92": {
+    "237": [
+      "Seoul", "Busan", "Incheon", "Daegu", "Gwangju", "Daejeon", "Ulsan",
+      "Suwon", "Changwon", "Seongnam", "Goyang", "Jeonju", "Bucheon",
+      "Ansan", "Cheonan", "Namyangju", "Hwaseong", "Jeongeup", "Anyang"
+    ]
+  },
+  "78": {
+    "208": [
+      "Jakarta", "Surabaya", "Bandung", "Bekasi", "Medan", "Semarang",
+      "Makassar", "Palembang", "Tangerang", "Depok", "Semarang", "Padang",
+      "Samarinda", "Pontianak", "Balikpapan", "Manado", "Yogyakarta",
+      "Surakarta", "Jayapura", "Kupang"
+    ]
+  },
+  "133": {
+    "289": [
+      "Karachi", "Lahore", "Faisalabad", "Rawalpindi", "Multan", "Hyderabad",
+      "Gujranwala", "Peshawar", "Islamabad", "Quetta", "Sargodha", "Sialkot",
+      "Bahawalpur", "Sukkur", "Jhang", "Gujrat", "Mardan", "Kasur", "Nawabshah"
+    ]
+  },
+  "14": {
+    "99": [
+      "Dhaka", "Chittagong", "Khulna", "Rajshahi", "Sylhet", "Barisal",
+      "Rangpur", "Comilla", "Narayanganj", "Gazipur", "Mymensingh",
+      "Jessore", "Bogra", "Dinajpur", "Cox's Bazar", "Noakhali", "Feni",
+      "Tangail", "Sreemangal", "Kushtia"
+    ]
+  },
+  "139": {
+    "298": [
+      "Manila", "Davao", "Quezon City", "Caloocan", "Cebu", "Zamboanga",
+      "Antipolo", "Taguig", "Pasig", "Cagayan de Oro", "Parañaque",
+      "Dasmariñas", "Valenzuela", "Bacolod", "General Santos", "Marikina",
+      "Iloilo", "Las Piñas", "Mandaue", "San Jose del Monte"
+    ]
+  },
+  "191": {
+    "364": [
+      "Hanoi", "Ho Chi Minh City", "Haiphong", "Da Nang", "Can Tho",
+      "Bien Hoa", "Nha Trang", "Vinh", "Hue", "Long Xuyen", "Phan Thiet",
+      "Quang Ngai", "Cam Pha", "Thai Nguyen", "Nam Dinh", "Phu Ly", "Dong Hoi",
+      "Tan An", "Buon Ma Thuot", "Bac Ninh"
+    ]
+  },
+  "174": {
+    "341": [
+      "Bangkok", "Chiang Mai", "Hat Yai", "Khon Kaen", "Udon Thani",
+      "Nakhon Ratchasima", "Pattaya", "Surat Thani", "Nonthaburi", "Ubon Ratchathani",
+      "Chiang Rai", "Phitsanulok", "Lampang", "Nakhon Si Thammarat", "Trang",
+      "Phuket", "Songkhla", "Yala", "Ranong", "Satun"
+    ]
+  },
+  "186": {
+    "356": [
+      "New York", "Los Angeles", "Chicago", "Houston", "Phoenix", "Philadelphia",
+      "San Antonio", "San Diego", "Dallas", "San Jose", "Austin", "Jacksonville",
+      "Fort Worth", "Columbus", "Indianapolis", "Charlotte", "San Francisco",
+      "Seattle", "Denver", "Washington", "Nashville", "Oklahoma City", "El Paso",
+      "Boston", "Portland", "Las Vegas", "Detroit", "Memphis", "Louisville",
+      "Baltimore", "Milwaukee", "Albuquerque", "Tucson", "Fresno", "Sacramento",
+      "Kansas City", "Long Beach", "Mesa", "Atlanta", "Colorado Springs"
+    ]
+  },
+  "31": {
+    "135": [
+      "Toronto", "Montreal", "Vancouver", "Calgary", "Edmonton", "Ottawa",
+      "Winnipeg", "Quebec City", "Hamilton", "Kitchener", "London", "Victoria",
+      "Halifax", "Oshawa", "Windsor", "Saskatoon", "Regina", "Barrie",
+      "Sherbrooke", "St. Catharines", "Guelph", "Kingston", "Kelowna", "Abbotsford"
+    ]
+  },
+  "113": {
+    "261": [
+      "Mexico City", "Guadalajara", "Monterrey", "Puebla", "Tijuana", "Ciudad Juárez",
+      "León", "Torreón", "Querétaro", "San Luis Potosí", "Mérida", "Mexicali",
+      "Aguascalientes", "Acapulco", "Tampico", "Cancún", "Veracruz", "Chihuahua",
+      "Saltillo", "Culiacán", "Hermosillo", "Morelia", "Durango", "Matamoros",
+      "Toluca", "Irapuato", "Cuernavaca", "Villahermosa", "Reynosa"
+    ]
+  },
+  "24": {
+    "121": [
+      "São Paulo", "Rio de Janeiro", "Brasília", "Salvador", "Fortaleza",
+      "Belo Horizonte", "Manaus", "Curitiba", "Recife", "Belém", "Porto Alegre",
+      "Goiânia", "Campinas", "Guarulhos", "Novo Hamburgo", "São Gonçalo",
+      "Maceió", "Duque de Caxias", "Natal", "Teresina", "João Pessoa",
+      "São Luís", "Campo Grande", "Aracaju", "Anápolis", "Feira de Santana"
+    ]
+  },
+  "7": {
+    "76": [
+      "Buenos Aires", "Córdoba", "Rosario", "Mendoza", "La Plata", "Mar del Plata",
+      "San Miguel de Tucumán", "Salta", "Santa Fe", "Corrientes", "Bahía Blanca",
+      "Resistencia", "Santiago del Estero", "San Juan", "Neuquén", "Paraná",
+      "Formosa", "San Luis", "Santa Rosa", "Comodoro Rivadavia"
+    ]
+  },
+  "37": {
+    "151": [
+      "Bogotá", "Medellín", "Cali", "Barranquilla", "Cartagena", "Cúcuta",
+      "Bucaramanga", "Pereira", "Santa Marta", "Ibagué", "Pasto", "Manizales",
+      "Neiva", "Villavicencio", "Montería", "Valledupar", "Buenaventura",
+      "Pasoo", "Bello", "Armenia"
+    ]
+  },
+  "35": {
+    "143": [
+      "Santiago", "Valparaíso", "Concepción", "La Serena", "Antofagasta",
+      "Temuco", "Iquique", "Rancagua", "Talca", "Arica", "Chillán", "Coquimbo",
+      "Osorno", "Puerto Montt", "Calama", "Copiapó", "Valdivia", "Punta Arenas",
+      "Curicó", "Los Ángeles"
+    ]
+  },
+  "138": {
+    "296": [
+      "Lima", "Arequipa", "Trujillo", "Chiclayo", "Iquitos", "Piura",
+      "Cusco", "Huancayo", "Tacna", "Juliaca", "Cajamarca", "Ica",
+      "Sullana", "Chimbote", "Huaraz", "Cañete", "Ayacucho", "Pucallpa",
+      "Tumbes", "Tarapoto"
+    ]
+  },
+  "9": {
+    "83": [
+      "Sydney", "Melbourne", "Brisbane", "Perth", "Adelaide", "Gold Coast", "Newcastle",
+      "Canberra", "Sunshine Coast", "Wollongong", "Hobart", "Geelong", "Townsville",
+      "Cairns", "Darwin", "Toowoomba", "Ballarat", "Bendigo", "Albury", "Mackay"
+    ]
+  },
+  "126": {
+    "280": [
+      "Auckland", "Wellington", "Christchurch", "Hamilton", "Tauranga", "Dunedin",
+      "Palmerston North", "Nelson", "Rotorua", "New Plymouth", "Whangārei",
+      "Invercargill", "Whakatāne", "Napier", "Hastings", "Gisborne", "Pukekohe",
+      "Timaru", "Blenheim", "Pōkeno"
+    ]
+  },
+  "43": {
+    "160": [
+      "Havana", "Santiago de Cuba", "Camagüey", "Holguín", "Guantánamo",
+      "Santa Clara", "Las Tunas", "Bayamo", "Cienfuegos", "Pinar del Río",
+      "Matanzas", "Ciego de Ávila", "Artemisa", "Mayabeque", "Granma",
+      "Villa Clara", "Sancti Spíritus"
+    ]
+  },
+  "41": {
+    "158": [
+      "San José", "Alajuela", "Cartago", "Heredia", "Liberia", "Puntarenas",
+      "San Isidro", "Limón", "Quesada", "Paraíso", "Cañas", "Nicoya",
+      "Turrialba", "Guápiles", "Curridabat", "Desamparados"
+    ]
+  },
+  "135": {
+    "293": [
+      "Panama City", "San Miguelito", "Tocumen", "Arraiján", "Colón", "David",
+      "La Chorrera", "Santiago", "Chitré", "Bocas del Toro", "Aguadulce",
+      "Las Tablas", "Churu", "Penonomé", "Capira", "Chame"
+    ]
+  },
+  "85": {
+    "226": [
+      "Kingston", "Portmore", "Spanish Town", "Montego Bay", "May Pen",
+      "Mandeville", "Old Harbour", "Savanna-la-Mar", "Linstead", "Bog Walk",
+      "Santa Cruz", "Port Antonio", "Highgate", "Morant Bay", "Lucea",
+      "Black River", "Annotto Bay"
+    ]
+  },
+  "73": {
+    "199": [
+      "Port-au-Prince", "Cap-Haïtien", "Carrefour", "Delmas", "Pétion-Ville",
+      "Gonaïves", "Saint-Marc", "Les Cayes", "Verrettes", "Lascahobas",
+      "Jérémie", "Miragoâne", "Hinche", "Fort-Liberté", "Jacmel", "Léogâne",
+      "Grand-Goâve"
+    ]
+  },
+  "49": {
+    "168": [
+      "Santo Domingo", "Santiago de los Caballeros", "La Romana", "San Pedro de Macorís",
+      "San Cristóbal", "Puerto Plata", "La Vega", "San Francisco de Macorís",
+      "Higüey", "Bonao", "Baní", "San Juan de la Maguana", "Bajos de Haina",
+      "Mao", "Cotuí", "Nagua", "Azua"
+    ]
+  },
+  "68": {
+    "194": [
+      "St. George's", "Gouyave", "Hillsborough", "Victoria", "Sauteurs",
+      "Crochu", "Grenville", "Gouave", "Sauters", "Calivigny"
+    ]
+  },
+  "15": {
+    "103": [
+      "Bridgetown", "Speightstown", "Oistins", "Holetown", "Christ Church",
+      "St. Michael", "St. James", "St. Peter"
+    ]
+  },
+  "10": {
+    "89": [
+      "Vienna", "Graz", "Linz", "Salzburg", "Innsbruck", "Klagenfurt",
+      "Villach", "Wels", "Sankt Pölten", "Dornbirn", "Wiener Neustadt",
+      "Steyr", "Feldkirchen", "Baden", "Klosterneuburg", "Traun",
+      "Kapfenberg", "Mödling", "Linz an der Donau", "Hallein"
+    ]
+  },
+  "169": {
+    "335": [
+      "Zurich", "Geneva", "Basel", "Bern", "Lausanne", "Winterthur", "Lucerne",
+      "St. Gallen", "Lugano", "Biel/Bienne", "Thun", "Köniz", "La Chaux-de-Fonds",
+      "Fribourg", "Schaffhausen", "Vernier", "Neuchâtel", "Uster", "Emmen"
+    ]
+  },
+  "125": {
+    "278": [
+      "Amsterdam", "Rotterdam", "The Hague", "Utrecht", "Eindhoven", "Tilburg",
+      "Groningen", "Almere", "Breda", "Nijmegen", "Enschede", "Haarlem",
+      "Arnhem", "Zutphen", "Amersfoort", "Apeldoorn", "Zwolle", "Hoorn",
+      "Leiden", "Delfzijl"
+    ]
+  },
+  "17": {
+    "107": [
+      "Brussels", "Antwerp", "Ghent", "Charleroi", "Liège", "Bruges", "Namur",
+      "Mons", "Leuven", "Mechelen", "Aalst", "Kortrijk", "Hasselt",
+      "Ostend", "Sint-Niklaas", "Tournai", "Genk", "Verviers",
+      "Roeselare", "Mouscron"
+    ]
+  },
+  "168": {
+    "334": [
+      "Stockholm", "Gothenburg", "Malmö", "Uppsala", "Västerås", "Örebro",
+      "Linköping", "Helsingborg", "Jönköping", "Norrköping", "Lund",
+      "Umeå", "Gävle", "Borås", "Sundsvall", "Eskilstuna", "Karlstad",
+      "Västervik", "Halmstad", "Västerås"
+    ]
+  },
+  "131": {
+    "287": [
+      "Oslo", "Bergen", "Trondheim", "Stavanger", "Drammen", "Fredrikstad",
+      "Kristiansand", "Sandefjord", "Tønsberg", "Sarpsborg", "Ålesund",
+      "Bodø", "Arendal", "Hamar", "Horten", "Molde", "Kongsberg",
+      "GjØvik", "Larvik", "Halden"
+    ]
+  },
+  "46": {
+    "164": [
+      "Copenhagen", "Aarhus", "Odense", "Aalborg", "Esbjerg", "Randers",
+      "Kolding", "Horsens", "Vejle", "Roskilde", "Herning", "Silkeborg",
+      "Næstved", "Greve", "Frederiksberg", "Viborg", "Køge", "Holbæk",
+      "Svendborg", "Hillerød"
+    ]
+  },
+  "60": {
+    "180": [
+      "Helsinki", "Espoo", "Tampere", "Vantaa", "Oulu", "Turku", "Jyväskylä",
+      "Lahti", "Kuopio", "Pori", "Lappeenranta", "Hämeenlinna", "Rovaniemi",
+      "Seinäjoki", "Kouvola", "Salo", "Kerava", "Porvoo", "Joensuu",
+      "Kokkola"
+    ]
+  },
+  "45": {
+    "162": [
+      "Prague", "Brno", "Ostrava", "Plzeň", "Liberec", "Olomouc",
+      "České Budějovice", "Hradec Králové", "Ústí nad Labem", "Pardubice",
+      "Zlín", "Kladno", "Most", "Karviná", "Opava", "Frýdek-Místek",
+      "Děčín", "Jihlava", "Teplice", "Karlovy Vary"
+    ]
+  },
+  "75": {
+    "201": [
+      "Budapest", "Debrecen", "Miskolc", "Szeged", "Győr", "Nyíregyháza",
+      "Kecskemét", "Székesfehérvár", "Pécs", "Szombathely", "Salgótarján",
+      "Vác", "Zalaegerszeg", "Eger", "Kaposvár", "Békéscsaba", "Szolnok",
+      "Tatabánya", "Érd", "Dunakeszi"
+    ]
+  },
+  "67": {
+    "192": [
+      "Athens", "Thessaloniki", "Patras", "Heraklion", "Larissa", "Volos",
+      "Rhodes", "Ioannina", "Chalkida", "Serres", "Chania", "Agrinio",
+      "Kalamata", "Kavala", "Trikala", "Lamia", "Komotini", "Alexandroupoli",
+      "Kozani", "Karditsa"
+    ]
+  },
+  "141": {
+    "302": [
+      "Lisbon", "Porto", "Vila Nova de Gaia", "Amadora", "Braga",
+      "Funchal", "Coimbra", "Setúbal", "Almada", "Agualva-Cacém",
+      "Faro", "Évora", "Aveiro", "Viseu", "Guimarães", "Leiria",
+      "Castelo Branco", "Santarém", "Vila Real", "Beja"
+    ]
+  },
+  "143": {
+    "305": [
+      "Bucharest", "Cluj-Napoca", "Timișoara", "Iași", "Constanța",
+      "Craiova", "Galați", "Brașov", "Ploiești", "Brăila", "Oradea",
+      "Bacău", "Arad", "Pitești", "Sibiu", "Târgu Mureș", "Baia Mare",
+      "Buzău", "Botoșani", "Satu Mare"
+    ]
+  },
+  "26": {
+    "127": [
+      "Sofia", "Plovdiv", "Varna", "Burgas", "Ruse", "Stara Zagora",
+      "Pleven", "Dobrich", "Shumen", "Pernik", "Haskovo", "Yambol",
+      "Pazardzhik", "Sliven", "Veliko Tarnovo", "Gabrovo", "Asenovgrad",
+      "Vidin", "Kazanlak", "Kyustendil"
+    ]
+  },
+  "42": {
+    "159": [
+      "Zagreb", "Split", "Rijeka", "Osijek", "Zadar", "Slavonski Brod",
+      "Pula", "Karlovac", "Varaždin", "Šibenik", "Dubrovnik", "Bjelovar",
+      "Koprivnica", "Vinkovci", "Vukovar", "Samobor", "Čakovec",
+      "Virovitica", "Sisak", "Samobor"
+    ]
+  },
+  "154": {
+    "316": [
+      "Belgrade", "Novi Sad", "Niš", "Kragujevac", "Subotica",
+      "Zrenjanin", "Pančevo", "Čačak", "Novi Pazar", "Kraljevo",
+      "Smederevo", "Leskovac", "Valjevo", "Kruševac", "Užice",
+      "Vranje", "Bor", "Loznica", "Smederevska Palanka", "Prokuplje"
+    ]
+  },
+  "159": {
+    "321": [
+      "Ljubljana", "Maribor", "Celje", "Kranj", "Velenje", "Koper",
+      "Novo Mesto", "Ptuj", "Trbovlje", "Kamnik", "Jesenice",
+      "Murska Sobota", "Nova Gorica", "Škofja Loka", "Murska",
+      "Domžale", "Izola", "Ravenna", "Postojna", "Krško"
+    ]
+  },
+  "158": {
+    "320": [
+      "Bratislava", "Košice", "Prešov", "Žilina", "Banská Bystrica",
+      "Nitra", "Trenčín", "Trnava", "Martin", "Poprad", "Zvolen",
+      "Michalovce", "Spišská Nová Ves", "Komárno", "Levice",
+      "Nové Zámky", "Piešťany", "Hlohovec", "Bardejov", "Piešťany"
+    ]
+  },
+  "13": {
+    "98": [
+      "Manama", "Muharraq", "Riffa", "Hamad Town", "Isa Town", "Sitra",
+      "Budaiya", "Jidhafs", "Diyya", "Al Qaryah", "Malikiya", "Al Hidd"
+    ]
+  },
+  "142": {
+    "304": [
+      "Doha", "Al Rayyan", "Al Wakrah", "Al Khor", "Umm Salal", "Dukhan",
+      "Mesaieed", "Al Shamal", "Dukhan", "Al Jemailiya", "Al Ghuwariyah",
+      "Al Khisa", "Al Sailiya"
+    ]
+  },
+  "93": {
+    "239": [
+      "Kuwait City", "Hawalli", "Farwaniya", "Ahmadi", "Mubarak Al Kabir",
+      "Jahra", "Salmiya", "Jaber Al Ali", "Jabriya", "Mishref",
+      "Rawdah", "Shuwaikh", "Kifan", "Dasman", "Fahaheel", "Mangaf"
+    ]
+  },
+  "132": {
+    "288": [
+      "Muscat", "Salalah", "Sohar", "Nizwa", "Al Buraimi", "Sur",
+      "Al Rustaq", "Seeb", "Barka", "Ibri", "Shinas", "Khasab",
+      "Al Suwayq", "Ibra", "Al Khaburah", "Yankul", "Bidbid", "Al Muzaynah"
+    ]
+  },
+  "192": {
+    "366": [
+      "Sana'a", "Aden", "Taiz", "Hodeidah", "Ibb", "Dhamar", "Mukalla",
+      "Sayun", "Al Mahrah", "Hadramaut", "Shabwah", "Abyan", "Lahij",
+      "Al Bayda", "Marib", "Al Jawf", "Amran", "Saada"
+    ]
+  },
+  "97": {
+    "243": [
+      "Beirut", "Tripoli", "Sidon", "Zahle", "Jounieh", "Baalbek",
+      "Nabatieh", "Tyre", "Jezzine", "Bint Jbeil", "Marjaayoun",
+      "Hasbaya", "Rachaya", "Baabda", "Matn", "Kesrouan",
+      "Chouf", "Aley", "Byblos", "Hermel"
+    ]
+  },
+  "170": {
+    "336": [
+      "Damascus", "Aleppo", "Homs", "Latakia", "Hama", "Deir ez-Zor",
+      "Raqqa", "Idlib", "Daraa", "Suwayda", "Tartus", "Hasakah",
+      "Quneitra", "Rif Dimashq", "Qamishli", "Kobani", "Manbij"
+    ]
+  },
+  "80": {
+    "214": [
+      "Baghdad", "Basra", "Erbil", "Najaf", "Karbala", "Sulaymaniyah",
+      "Mosul", "Kirkuk", "Nasiriyah", "Amarah", "Hillah", "Diwaniyah",
+      "Samarra", "Ramadi", "Fallujah", "Kut", "Samawah", "Duhok"
+    ]
+  },
+  "79": {
+    "211": [
+      "Tehran", "Mashhad", "Isfahan", "Karaj", "Tabriz", "Shiraz",
+      "Qom", "Ahvaz", "Kermanshah", "Urmia", "Rasht", "Zahedan",
+      "Kerman", "Yazd", "Ardabil", "Bandar Abbas", "Hamadan", "Qazvin",
+      "Khorramabad", "Sari"
+    ]
+  },
+  "179": {
+    "346": [
+      "Istanbul", "Ankara", "Izmir", "Bursa", "Adana", "Gaziantep",
+      "Konya", "Antalya", "Kayseri", "Mersin", "Diyarbakir", "Samsun",
+      "Denizli", "Şanlıurfa", "Malatya", "Van", "Eskişehir",
+      "Kahramanmaraş", "Erzurum", "Batman"
+    ]
+  },
+  "2": {
+    "48": [
+      "Kabul", "Herat", "Kandahar", "Mazar-i-Sharif", "Jalalabad",
+      "Lashkar Gah", "Kunduz", "Bamyan", "Farah", "Ghazni", "Khost",
+      "Baghlan", "Shibirghan", "Maimana", "Sar-e Pol", "Taloqan"
+    ]
+  },
+  "188": {
+    "361": [
+      "Tashkent", "Samarkand", "Namangan", "Andijan", "Bukhara", "Nukus",
+      "Qarshi", "Fergana", "Jizzakh", "Nukus", "Termez", "Urgench",
+      "Khiva", "Denov", "Angren", "Shirabad"
+    ]
+  },
+  "88": {
+    "231": [
+      "Nur-Sultan", "Almaty", "Shymkent", "Karagandy", "Aktobe",
+      "Taraz", "Pavlodar", "Ust-Kamenogorsk", "Semey", "Kostanay",
+      "Petropavl", "Oral", "Aktau", "Uralsk", "Temirtau", "Kyzylorda"
+    ]
+  },
+  "94": {
+    "240": [
+      "Bishkek", "Osh", "Jalal-Abad", "Karakol", "Talas", "Naryn",
+      "Batokan", "Issyk-Kul", "Chui"
+    ]
+  },
+  "172": {
+    "338": [
+      "Dushanbe", "Khujand", "Kulyab", "Qurgonteppa", "Istaravshan",
+      "Konibodom", "Tursunzoda", "Buston", "Vahdat"
+    ]
+  },
+  "180": {
+    "349": [
+      "Ashgabat", "Turkmenabat", "Daşoguz", "Mary", "Balkanabat",
+      "Bereket", "Turkmenbashi"
+    ]
+  },
+  "107": {
+    "255": [
+      "Malé", "Addu", "Fuvahmulah", "Kulhudhufushi", "Hulhumalé"
+    ]
+  },
+  "165": {
+    "331": [
+      "Colombo", "Dehiwala-Mount Lavinia", "Moratuwa", "Sri Jayawardenepura Kotte",
+      "Kandy", "Negombo", "Galle", "Anuradhapura", "Jaffna", "Trincomalee",
+      "Batticaloa", "Kalmunai", "Ratnapura", "Badulla", "Matara"
+    ]
+  },
+  "124": {
+    "277": [
+      "Kathmandu", "Pokhara", "Lalitpur", "Bharatpur", "Birgunj",
+      "Janakpur", "Hetauda", "Dhangadhi", "Dharan", "Butwal",
+      "Bharatpur", "Ilam", "Nepalgunj", "Mahendranagar"
+    ]
+  },
+  "20": {
+    "114": [
+      "Thimphu", "Phuentsholing", "Paro", "Trongsa", "Wangdue Phodrang",
+      "Jakar", "Gelephu", "Samdrup Jongkhar"
+    ]
+  },
+  "117": {
+    "267": [
+      "Ulaanbaatar", "Erdenet", "Darkhan", "Choibalsan", "Khovd",
+      "Mörön", "Bayankhongor", "Ölgii", "Arvaykheer"
+    ]
+  },
+  "91": {
+    "236": [
+      "Pyongyang", "Hamhung", "Chongjin", "Nampo", "Kaesong",
+      "Sinuiju", "Wonsan", "Hyesan", "Kanggye"
+    ]
+  },
+  "4": {
+    "70": [
+      "Andorra la Vella"
+    ]
+  },
+  "116": {
+    "266": [
+      "Monaco"
+    ]
+  },
+  "101": {
+    "248": [
+      "Vaduz"
+    ]
+  },
+  "150": {
+    "313": [
+      "San Marino"
+    ]
+  },
+  "76": {
+    "202": [
+      "Reykjavik", "Kopavogur", "Hafnarfjordur", "Akureyri", "Gardabaer",
+      "Keflavik", "Mosfellsbaer", "Selfoss", "Akranes", "Isafjordur"
+    ]
+  },
+  "103": {
+    "250": [
+      "Luxembourg"
+    ]
+  },
+  "109": {
+    "257": [
+      "Valletta", "Birkirkara", "Mosta", "Qormi", "Sliema",
+      "St. Julian's", "Naxxar", "Rabat", "Gzira", "Zabbar"
+    ]
+  },
+  "44": {
+    "161": [
+      "Nicosia", "Limassol", "Larnaca", "Famagusta", "Paphos",
+      "Kyrenia", "Protaras", "Ayia Napa", "Paralimni"
+    ]
+  },
+  "12": {
+    "97": [
+      "Nassau", "Freeport", "West End", "Marsh Harbour"
+    ]
+  },
+  "15": {
+    "103": [
+      "Bridgetown", "Speightstown", "Oistins", "Holetown"
+    ]
+  },
+  "177": {
+    "344": [
+      "Port of Spain", "San Fernando", "Chaguanas", "Arima",
+      "Point Fortin", "Toco", "Scarborough"
+    ]
+  },
+  "155": {
+    "317": [
+      "Victoria"
+    ]
+  },
+  "112": {
+    "260": [
+      "Port Louis", "Beau Bassin", "Vacoas-Phoenix", "Curepipe", "Rose Hill"
+    ]
+  },
+  "38": {
+    "154": [
+      "Moroni", "Mutsamudu", "Domoni", "Fomboni"
+    ]
+  },
+  "33": {
+    "141": [
+      "Brazzaville", "Pointe-Noire", "Dolisie", "Nkayi"
+    ]
+  },
+  "40": {
+    "156": [
+      "Kinshasa", "Lubumbashi", "Mbuji-Mayi", "Kisangani", "Kananga"
+    ]
+  },
+  "62": {
+    "184": [
+      "Libreville", "Port-Gentil", "Franceville", "Oyem"
+    ]
+  },
+  "70": {
+    "196": [
+      "Conakry", "Kankan", "Kindia", "Nzérékoré"
+    ]
+  },
+  "99": {
+    "245": [
+      "Monrovia", "Gbarnga", "Greenville", "Harper"
+    ]
+  },
+  "108": {
+    "256": [
+      "Bamako", "Sikasso", "Kayes", "Mopti"
+    ]
+  },
+  "111": {
+    "259": [
+      "Nouakchott", "Nouadhibou", "Kiffa", "Rosso"
+    ]
+  },
+  "128": {
+    "283": [
+      "Niamey", "Zinder", "Maradi", "Agadez"
+    ]
+  },
+  "145": {
+    "308": [
+      "Kigali", "Gisenyi", "Butare", "Ruhengeri"
+    ]
+  },
+  "161": {
+    "323": [
+      "Mogadishu", "Hargeisa", "Berbera", "Kismayo"
+    ]
+  },
+  "163": {
+    "327": [
+      "Juba", "Wau", "Malakal", "Yei"
+    ]
+  },
+  "175": {
+    "342": [
+      "Lomé", "Sokodé", "Kara", "Atakpamé"
+    ]
+  },
+  "182": {
+    "351": [
+      "Kampala", "Gulu", "Lira", "Mbarara"
+    ]
+  },
+  "193": {
+    "367": [
+      "Lusaka", "Ndola", "Kitwe", "Kabwe"
+    ]
+  },
+  "194": {
+    "368": [
+      "Harare", "Bulawayo", "Chitungwiza", "Mutare"
+    ]
+  },
+  "27": {
+    "130": [
+      "Ouagadougou", "Bobo-Dioulasso", "Koudougou", "Ouahigouya"
+    ]
+  },
+  "34": {
+    "142": [
+      "N'Djamena", "Moundou", "Sarh", "Abéché"
+    ]
+  },
+  "33": {
+    "141": [
+      "Bangui", "Bimbo", "Mbaïki", "Berbérati"
+    ]
+  },
+  "71": {
+    "197": [
+      "Bissau", "Bafatá", "Gabú", "Bissau"
+    ]
+  },
+  "54": {
+    "174": [
+      "Malabo", "Bata", "Ebebiyin", "Evinayong"
+    ]
+  },
+  "47": {
+    "166": [
+      "Djibouti"
+    ]
+  },
+  "57": {
+    "177": [
+      "Mbabane", "Manzini"
+    ]
+  },
+  "98": {
+    "244": [
+      "Maseru", "Teyateyaneng", "Mafeteng"
+    ]
+  },
+  "63": {
+    "185": [
+      "Banjul", "Serekunda", "Brikama", "Bakau"
+    ]
+  }
+}

@@ -1,0 +1,758 @@
+{
+  "1": [
+    {"id":1,"name":"Cairo","country_id":1},
+    {"id":2,"name":"Giza","country_id":1},
+    {"id":3,"name":"Alexandria","country_id":1},
+    {"id":4,"name":"Dakahlia","country_id":1},
+    {"id":5,"name":"Sharqia","country_id":1},
+    {"id":6,"name":"Qalyubia","country_id":1},
+    {"id":7,"name":"Beheira","country_id":1},
+    {"id":8,"name":"Gharbia","country_id":1},
+    {"id":9,"name":"Monufia","country_id":1},
+    {"id":10,"name":"Kafr El Sheikh","country_id":1},
+    {"id":11,"name":"Damietta","country_id":1},
+    {"id":12,"name":"Port Said","country_id":1},
+    {"id":13,"name":"Ismailia","country_id":1},
+    {"id":14,"name":"Suez","country_id":1},
+    {"id":15,"name":"North Sinai","country_id":1},
+    {"id":16,"name":"South Sinai","country_id":1},
+    {"id":17,"name":"Beni Suef","country_id":1},
+    {"id":18,"name":"Faiyum","country_id":1},
+    {"id":19,"name":"Minya","country_id":1},
+    {"id":20,"name":"Asyut","country_id":1},
+    {"id":21,"name":"Sohag","country_id":1},
+    {"id":22,"name":"Qena","country_id":1},
+    {"id":23,"name":"Luxor","country_id":1},
+    {"id":24,"name":"Aswan","country_id":1},
+    {"id":25,"name":"Red Sea","country_id":1},
+    {"id":26,"name":"New Valley","country_id":1},
+    {"id":27,"name":"Matrouh","country_id":1}
+  ],
+  "152": [
+    {"id":28,"name":"Riyadh","country_id":152},
+    {"id":29,"name":"Makkah","country_id":152},
+    {"id":30,"name":"Madinah","country_id":152},
+    {"id":31,"name":"Qassim","country_id":152},
+    {"id":32,"name":"Eastern Province","country_id":152},
+    {"id":33,"name":"Asir","country_id":152},
+    {"id":34,"name":"Tabuk","country_id":152},
+    {"id":35,"name":"Hail","country_id":152},
+    {"id":36,"name":"Northern Borders","country_id":152},
+    {"id":37,"name":"Jazan","country_id":152},
+    {"id":38,"name":"Najran","country_id":152},
+    {"id":39,"name":"Al Bahah","country_id":152},
+    {"id":40,"name":"Al Jawf","country_id":152}
+  ],
+  "184": [
+    {"id":41,"name":"Dubai","country_id":184},
+    {"id":42,"name":"Abu Dhabi","country_id":184},
+    {"id":43,"name":"Sharjah","country_id":184},
+    {"id":44,"name":"Ajman","country_id":184},
+    {"id":45,"name":"Umm Al Quwain","country_id":184},
+    {"id":46,"name":"Ras Al Khaimah","country_id":184},
+    {"id":47,"name":"Fujairah","country_id":184}
+  ],
+  "2": [
+    {"id":48,"name":"Tirana","country_id":2},
+    {"id":49,"name":"Durrës","country_id":2},
+    {"id":50,"name":"Vlorë","country_id":2},
+    {"id":51,"name":"Gjirokastër","country_id":2},
+    {"id":52,"name":"Korçë","country_id":2},
+    {"id":53,"name":"Kukës","country_id":2},
+    {"id":54,"name":"Lezhë","country_id":2},
+    {"id":55,"name":"Shkodër","country_id":2},
+    {"id":56,"name":"Fier","country_id":2},
+    {"id":57,"name":"Elbasan","country_id":2},
+    {"id":58,"name":"Berat","country_id":2},
+    {"id":59,"name":"Dibër","country_id":2}
+  ],
+  "3": [
+    {"id":60,"name":"Algiers","country_id":3},
+    {"id":61,"name":"Oran","country_id":3},
+    {"id":62,"name":"Constantine","country_id":3},
+    {"id":63,"name":"Annaba","country_id":3},
+    {"id":64,"name":"Batna","country_id":3},
+    {"id":65,"name":"Sétif","country_id":3},
+    {"id":66,"name":"Béjaïa","country_id":3},
+    {"id":67,"name":"Blida","country_id":3},
+    {"id":68,"name":"Tiaret","country_id":3},
+    {"id":69,"name":"Tlemcen","country_id":3}
+  ],
+  "4": [
+    {"id":70,"name":"Andorra la Vella","country_id":4}
+  ],
+  "5": [
+    {"id":71,"name":"Luanda","country_id":5},
+    {"id":72,"name":"Huambo","country_id":5},
+    {"id":73,"name":"Lobito","country_id":5},
+    {"id":74,"name":"Cabinda","country_id":5}
+  ],
+  "6": [
+    {"id":75,"name":"Saint John's","country_id":6}
+  ],
+  "7": [
+    {"id":76,"name":"Buenos Aires","country_id":7},
+    {"id":77,"name":"Córdoba","country_id":7},
+    {"id":78,"name":"Rosario","country_id":7},
+    {"id":79,"name":"Mendoza","country_id":7},
+    {"id":80,"name":"La Plata","country_id":7}
+  ],
+  "8": [
+    {"id":81,"name":"Yerevan","country_id":8},
+    {"id":82,"name":"Gyumri","country_id":8}
+  ],
+  "9": [
+    {"id":83,"name":"Canberra","country_id":9},
+    {"id":84,"name":"Sydney","country_id":9},
+    {"id":85,"name":"Melbourne","country_id":9},
+    {"id":86,"name":"Brisbane","country_id":9},
+    {"id":87,"name":"Perth","country_id":9},
+    {"id":88,"name":"Adelaide","country_id":9}
+  ],
+  "10": [
+    {"id":89,"name":"Vienna","country_id":10},
+    {"id":90,"name":"Graz","country_id":10},
+    {"id":91,"name":"Linz","country_id":10},
+    {"id":92,"name":"Salzburg","country_id":10},
+    {"id":93,"name":"Innsbruck","country_id":10}
+  ],
+  "11": [
+    {"id":94,"name":"Baku","country_id":11},
+    {"id":95,"name":"Ganja","country_id":11},
+    {"id":96,"name":"Sumgait","country_id":11}
+  ],
+  "12": [
+    {"id":97,"name":"Nassau","country_id":12}
+  ],
+  "13": [
+    {"id":98,"name":"Manama","country_id":13}
+  ],
+  "14": [
+    {"id":99,"name":"Dhaka","country_id":14},
+    {"id":100,"name":"Chittagong","country_id":14},
+    {"id":101,"name":"Khulna","country_id":14},
+    {"id":102,"name":"Rajshahi","country_id":14}
+  ],
+  "15": [
+    {"id":103,"name":"Bridgetown","country_id":15}
+  ],
+  "16": [
+    {"id":104,"name":"Minsk","country_id":16},
+    {"id":105,"name":"Gomel","country_id":16},
+    {"id":106,"name":"Mogilev","country_id":16}
+  ],
+  "17": [
+    {"id":107,"name":"Brussels","country_id":17},
+    {"id":108,"name":"Antwerp","country_id":17},
+    {"id":109,"name":"Ghent","country_id":17},
+    {"id":110,"name":"Liège","country_id":17}
+  ],
+  "18": [
+    {"id":111,"name":"Belmopan","country_id":18}
+  ],
+  "19": [
+    {"id":112,"name":"Porto-Novo","country_id":19},
+    {"id":113,"name":"Cotonou","country_id":19}
+  ],
+  "20": [
+    {"id":114,"name":"Thimphu","country_id":20}
+  ],
+  "21": [
+    {"id":115,"name":"La Paz","country_id":21},
+    {"id":116,"name":"Santa Cruz","country_id":21},
+    {"id":117,"name":"Cochabamba","country_id":21}
+  ],
+  "22": [
+    {"id":118,"name":"Sarajevo","country_id":22},
+    {"id":119,"name":"Banja Luka","country_id":22}
+  ],
+  "23": [
+    {"id":120,"name":"Gaborone","country_id":23}
+  ],
+  "24": [
+    {"id":121,"name":"Brasília","country_id":24},
+    {"id":122,"name":"Rio de Janeiro","country_id":24},
+    {"id":123,"name":"São Paulo","country_id":24},
+    {"id":124,"name":"Salvador","country_id":24},
+    {"id":125,"name":"Fortaleza","country_id":24}
+  ],
+  "25": [
+    {"id":126,"name":"Bandar Seri Begawan","country_id":25}
+  ],
+  "26": [
+    {"id":127,"name":"Sofia","country_id":26},
+    {"id":128,"name":"Plovdiv","country_id":26},
+    {"id":129,"name":"Varna","country_id":26}
+  ],
+  "27": [
+    {"id":130,"name":"Ouagadougou","country_id":27}
+  ],
+  "28": [
+    {"id":131,"name":"Bujumbura","country_id":28}
+  ],
+  "29": [
+    {"id":132,"name":"Phnom Penh","country_id":29}
+  ],
+  "30": [
+    {"id":133,"name":"Yaoundé","country_id":30},
+    {"id":134,"name":"Douala","country_id":30}
+  ],
+  "31": [
+    {"id":135,"name":"Ottawa","country_id":31},
+    {"id":136,"name":"Toronto","country_id":31},
+    {"id":137,"name":"Montreal","country_id":31},
+    {"id":138,"name":"Vancouver","country_id":31},
+    {"id":139,"name":"Calgary","country_id":31}
+  ],
+  "32": [
+    {"id":140,"name":"Praia","country_id":32}
+  ],
+  "33": [
+    {"id":141,"name":"Bangui","country_id":33}
+  ],
+  "34": [
+    {"id":142,"name":"N'Djamena","country_id":34}
+  ],
+  "35": [
+    {"id":143,"name":"Santiago","country_id":35},
+    {"id":144,"name":"Valparaíso","country_id":35},
+    {"id":145,"name":"Concepción","country_id":35}
+  ],
+  "36": [
+    {"id":146,"name":"Beijing","country_id":36},
+    {"id":147,"name":"Shanghai","country_id":36},
+    {"id":148,"name":"Guangzhou","country_id":36},
+    {"id":149,"name":"Shenzhen","country_id":36},
+    {"id":150,"name":"Tianjin","country_id":36}
+  ],
+  "37": [
+    {"id":151,"name":"Bogotá","country_id":37},
+    {"id":152,"name":"Medellín","country_id":37},
+    {"id":153,"name":"Cali","country_id":37}
+  ],
+  "38": [
+    {"id":154,"name":"Moroni","country_id":38}
+  ],
+  "39": [
+    {"id":155,"name":"Brazzaville","country_id":39}
+  ],
+  "40": [
+    {"id":156,"name":"Kinshasa","country_id":40},
+    {"id":157,"name":"Lubumbashi","country_id":40}
+  ],
+  "41": [
+    {"id":158,"name":"San José","country_id":41}
+  ],
+  "42": [
+    {"id":159,"name":"Zagreb","country_id":42}
+  ],
+  "43": [
+    {"id":160,"name":"Havana","country_id":43}
+  ],
+  "44": [
+    {"id":161,"name":"Nicosia","country_id":44}
+  ],
+  "45": [
+    {"id":162,"name":"Prague","country_id":45},
+    {"id":163,"name":"Brno","country_id":45}
+  ],
+  "46": [
+    {"id":164,"name":"Copenhagen","country_id":46},
+    {"id":165,"name":"Aarhus","country_id":46}
+  ],
+  "47": [
+    {"id":166,"name":"Djibouti","country_id":47}
+  ],
+  "48": [
+    {"id":167,"name":"Roseau","country_id":48}
+  ],
+  "49": [
+    {"id":168,"name":"Santo Domingo","country_id":49}
+  ],
+  "50": [
+    {"id":169,"name":"Dili","country_id":50}
+  ],
+  "51": [
+    {"id":170,"name":"Quito","country_id":51},
+    {"id":171,"name":"Guayaquil","country_id":51}
+  ],
+  "52": [
+    {"id":172,"name":"Cairo","country_id":52}
+  ],
+  "53": [
+    {"id":173,"name":"San Salvador","country_id":53}
+  ],
+  "54": [
+    {"id":174,"name":"Malabo","country_id":54}
+  ],
+  "55": [
+    {"id":175,"name":"Asmara","country_id":55}
+  ],
+  "56": [
+    {"id":176,"name":"Tallinn","country_id":56}
+  ],
+  "57": [
+    {"id":177,"name":"Mbabane","country_id":57}
+  ],
+  "58": [
+    {"id":178,"name":"Addis Ababa","country_id":58}
+  ],
+  "59": [
+    {"id":179,"name":"Suva","country_id":59}
+  ],
+  "60": [
+    {"id":180,"name":"Helsinki","country_id":60}
+  ],
+  "61": [
+    {"id":181,"name":"Paris","country_id":61},
+    {"id":182,"name":"Marseille","country_id":61},
+    {"id":183,"name":"Lyon","country_id":61}
+  ],
+  "62": [
+    {"id":184,"name":"Libreville","country_id":62}
+  ],
+  "63": [
+    {"id":185,"name":"Banjul","country_id":63}
+  ],
+  "64": [
+    {"id":186,"name":"Tbilisi","country_id":64}
+  ],
+  "65": [
+    {"id":187,"name":"Berlin","country_id":65},
+    {"id":188,"name":"Hamburg","country_id":65},
+    {"id":189,"name":"Munich","country_id":65},
+    {"id":190,"name":"Cologne","country_id":65}
+  ],
+  "66": [
+    {"id":191,"name":"Accra","country_id":66}
+  ],
+  "67": [
+    {"id":192,"name":"Athens","country_id":67},
+    {"id":193,"name":"Thessaloniki","country_id":67}
+  ],
+  "68": [
+    {"id":194,"name":"St. George's","country_id":68}
+  ],
+  "69": [
+    {"id":195,"name":"Guatemala City","country_id":69}
+  ],
+  "70": [
+    {"id":196,"name":"Conakry","country_id":70}
+  ],
+  "71": [
+    {"id":197,"name":"Bissau","country_id":71}
+  ],
+  "72": [
+    {"id":198,"name":"Georgetown","country_id":72}
+  ],
+  "73": [
+    {"id":199,"name":"Port-au-Prince","country_id":73}
+  ],
+  "74": [
+    {"id":200,"name":"Tegucigalpa","country_id":74}
+  ],
+  "75": [
+    {"id":201,"name":"Budapest","country_id":75}
+  ],
+  "76": [
+    {"id":202,"name":"Reykjavík","country_id":76}
+  ],
+  "77": [
+    {"id":203,"name":"New Delhi","country_id":77},
+    {"id":204,"name":"Mumbai","country_id":77},
+    {"id":205,"name":"Bangalore","country_id":77},
+    {"id":206,"name":"Hyderabad","country_id":77},
+    {"id":207,"name":"Chennai","country_id":77}
+  ],
+  "78": [
+    {"id":208,"name":"Jakarta","country_id":78},
+    {"id":209,"name":"Surabaya","country_id":78},
+    {"id":210,"name":"Bandung","country_id":78}
+  ],
+  "79": [
+    {"id":211,"name":"Tehran","country_id":79},
+    {"id":212,"name":"Mashhad","country_id":79},
+    {"id":213,"name":"Isfahan","country_id":79}
+  ],
+  "80": [
+    {"id":214,"name":"Baghdad","country_id":80},
+    {"id":215,"name":"Basra","country_id":80},
+    {"id":216,"name":"Erbil","country_id":80}
+  ],
+  "81": [
+    {"id":217,"name":"Dublin","country_id":81}
+  ],
+  "82": [
+    {"id":218,"name":"Tel Aviv","country_id":82},
+    {"id":219,"name":"Jerusalem","country_id":82},
+    {"id":220,"name":"Haifa","country_id":82}
+  ],
+  "83": [
+    {"id":221,"name":"Rome","country_id":83},
+    {"id":222,"name":"Milan","country_id":83},
+    {"id":223,"name":"Naples","country_id":83}
+  ],
+  "84": [
+    {"id":224,"name":"Abidjan","country_id":84},
+    {"id":225,"name":"Yamoussoukro","country_id":84}
+  ],
+  "85": [
+    {"id":226,"name":"Kingston","country_id":85}
+  ],
+  "86": [
+    {"id":227,"name":"Tokyo","country_id":86},
+    {"id":228,"name":"Yokohama","country_id":86},
+    {"id":229,"name":"Osaka","country_id":86}
+  ],
+  "87": [
+    {"id":230,"name":"Amman","country_id":87}
+  ],
+  "88": [
+    {"id":231,"name":"Nur-Sultan","country_id":88},
+    {"id":232,"name":"Almaty","country_id":88}
+  ],
+  "89": [
+    {"id":233,"name":"Nairobi","country_id":89},
+    {"id":234,"name":"Mombasa","country_id":89}
+  ],
+  "90": [
+    {"id":235,"name":"Tarawa","country_id":90}
+  ],
+  "91": [
+    {"id":236,"name":"Pyongyang","country_id":91}
+  ],
+  "92": [
+    {"id":237,"name":"Seoul","country_id":92},
+    {"id":238,"name":"Busan","country_id":92}
+  ],
+  "93": [
+    {"id":239,"name":"Kuwait City","country_id":93}
+  ],
+  "94": [
+    {"id":240,"name":"Bishkek","country_id":94}
+  ],
+  "95": [
+    {"id":241,"name":"Vientiane","country_id":95}
+  ],
+  "96": [
+    {"id":242,"name":"Riga","country_id":96}
+  ],
+  "97": [
+    {"id":243,"name":"Beirut","country_id":97}
+  ],
+  "98": [
+    {"id":244,"name":"Maseru","country_id":98}
+  ],
+  "99": [
+    {"id":245,"name":"Monrovia","country_id":99}
+  ],
+  "100": [
+    {"id":246,"name":"Tripoli","country_id":100},
+    {"id":247,"name":"Benghazi","country_id":100}
+  ],
+  "101": [
+    {"id":248,"name":"Vaduz","country_id":101}
+  ],
+  "102": [
+    {"id":249,"name":"Vilnius","country_id":102}
+  ],
+  "103": [
+    {"id":250,"name":"Luxembourg","country_id":103}
+  ],
+  "104": [
+    {"id":251,"name":"Antananarivo","country_id":104}
+  ],
+  "105": [
+    {"id":252,"name":"Lilongwe","country_id":105}
+  ],
+  "106": [
+    {"id":253,"name":"Kuala Lumpur","country_id":106},
+    {"id":254,"name":"George Town","country_id":106}
+  ],
+  "107": [
+    {"id":255,"name":"Malé","country_id":107}
+  ],
+  "108": [
+    {"id":256,"name":"Bamako","country_id":108}
+  ],
+  "109": [
+    {"id":257,"name":"Valletta","country_id":109}
+  ],
+  "110": [
+    {"id":258,"name":"Majuro","country_id":110}
+  ],
+  "111": [
+    {"id":259,"name":"Nouakchott","country_id":111}
+  ],
+  "112": [
+    {"id":260,"name":"Port Louis","country_id":112}
+  ],
+  "113": [
+    {"id":261,"name":"Mexico City","country_id":113},
+    {"id":262,"name":"Guadalajara","country_id":113},
+    {"id":263,"name":"Monterrey","country_id":113}
+  ],
+  "114": [
+    {"id":264,"name":"Palikir","country_id":114}
+  ],
+  "115": [
+    {"id":265,"name":"Chișinău","country_id":115}
+  ],
+  "116": [
+    {"id":266,"name":"Monaco","country_id":116}
+  ],
+  "117": [
+    {"id":267,"name":"Ulaanbaatar","country_id":117}
+  ],
+  "118": [
+    {"id":268,"name":"Podgorica","country_id":118}
+  ],
+  "119": [
+    {"id":269,"name":"Rabat","country_id":119},
+    {"id":270,"name":"Casablanca","country_id":119},
+    {"id":271,"name":"Fes","country_id":119}
+  ],
+  "120": [
+    {"id":272,"name":"Maputo","country_id":120}
+  ],
+  "121": [
+    {"id":273,"name":"Naypyidaw","country_id":121},
+    {"id":274,"name":"Yangon","country_id":121}
+  ],
+  "122": [
+    {"id":275,"name":"Windhoek","country_id":122}
+  ],
+  "123": [
+    {"id":276,"name":"Yaren","country_id":123}
+  ],
+  "124": [
+    {"id":277,"name":"Kathmandu","country_id":124}
+  ],
+  "125": [
+    {"id":278,"name":"Amsterdam","country_id":125},
+    {"id":279,"name":"Rotterdam","country_id":125}
+  ],
+  "126": [
+    {"id":280,"name":"Wellington","country_id":126},
+    {"id":281,"name":"Auckland","country_id":126}
+  ],
+  "127": [
+    {"id":282,"name":"Managua","country_id":127}
+  ],
+  "128": [
+    {"id":283,"name":"Niamey","country_id":128}
+  ],
+  "129": [
+    {"id":284,"name":"Abuja","country_id":129},
+    {"id":285,"name":"Lagos","country_id":129}
+  ],
+  "130": [
+    {"id":286,"name":"Skopje","country_id":130}
+  ],
+  "131": [
+    {"id":287,"name":"Oslo","country_id":131}
+  ],
+  "132": [
+    {"id":288,"name":"Muscat","country_id":132}
+  ],
+  "133": [
+    {"id":289,"name":"Islamabad","country_id":133},
+    {"id":290,"name":"Karachi","country_id":133},
+    {"id":291,"name":"Lahore","country_id":133}
+  ],
+  "134": [
+    {"id":292,"name":"Ngerulmud","country_id":134}
+  ],
+  "135": [
+    {"id":293,"name":"Panama City","country_id":135}
+  ],
+  "136": [
+    {"id":294,"name":"Port Moresby","country_id":136}
+  ],
+  "137": [
+    {"id":295,"name":"Asunción","country_id":137}
+  ],
+  "138": [
+    {"id":296,"name":"Lima","country_id":138},
+    {"id":297,"name":"Arequipa","country_id":138}
+  ],
+  "139": [
+    {"id":298,"name":"Manila","country_id":139},
+    {"id":299,"name":"Davao","country_id":139}
+  ],
+  "140": [
+    {"id":300,"name":"Warsaw","country_id":140},
+    {"id":301,"name":"Kraków","country_id":140}
+  ],
+  "141": [
+    {"id":302,"name":"Lisbon","country_id":141},
+    {"id":303,"name":"Porto","country_id":141}
+  ],
+  "142": [
+    {"id":304,"name":"Doha","country_id":142}
+  ],
+  "143": [
+    {"id":305,"name":"Bucharest","country_id":143}
+  ],
+  "144": [
+    {"id":306,"name":"Moscow","country_id":144},
+    {"id":307,"name":"Saint Petersburg","country_id":144}
+  ],
+  "145": [
+    {"id":308,"name":"Kigali","country_id":145}
+  ],
+  "146": [
+    {"id":309,"name":"Basseterre","country_id":146}
+  ],
+  "147": [
+    {"id":310,"name":"Castries","country_id":147}
+  ],
+  "148": [
+    {"id":311,"name":"Kingstown","country_id":148}
+  ],
+  "149": [
+    {"id":312,"name":"Apia","country_id":149}
+  ],
+  "150": [
+    {"id":313,"name":"San Marino","country_id":150}
+  ],
+  "151": [
+    {"id":314,"name":"São Tomé","country_id":151}
+  ],
+  "153": [
+    {"id":315,"name":"Dakar","country_id":153}
+  ],
+  "154": [
+    {"id":316,"name":"Belgrade","country_id":154}
+  ],
+  "155": [
+    {"id":317,"name":"Victoria","country_id":155}
+  ],
+  "156": [
+    {"id":318,"name":"Freetown","country_id":156}
+  ],
+  "157": [
+    {"id":319,"name":"Singapore","country_id":157}
+  ],
+  "158": [
+    {"id":320,"name":"Bratislava","country_id":158}
+  ],
+  "159": [
+    {"id":321,"name":"Ljubljana","country_id":159}
+  ],
+  "160": [
+    {"id":322,"name":"Honiara","country_id":160}
+  ],
+  "161": [
+    {"id":323,"name":"Mogadishu","country_id":161}
+  ],
+  "162": [
+    {"id":324,"name":"Johannesburg","country_id":162},
+    {"id":325,"name":"Cape Town","country_id":162},
+    {"id":326,"name":"Durban","country_id":162}
+  ],
+  "163": [
+    {"id":327,"name":"Juba","country_id":163}
+  ],
+  "164": [
+    {"id":328,"name":"Madrid","country_id":164},
+    {"id":329,"name":"Barcelona","country_id":164},
+    {"id":330,"name":"Valencia","country_id":164}
+  ],
+  "165": [
+    {"id":331,"name":"Colombo","country_id":165}
+  ],
+  "166": [
+    {"id":332,"name":"Khartoum","country_id":166}
+  ],
+  "167": [
+    {"id":333,"name":"Paramaribo","country_id":167}
+  ],
+  "168": [
+    {"id":334,"name":"Stockholm","country_id":168}
+  ],
+  "169": [
+    {"id":335,"name":"Bern","country_id":169}
+  ],
+  "170": [
+    {"id":336,"name":"Damascus","country_id":170}
+  ],
+  "171": [
+    {"id":337,"name":"Taipei","country_id":171}
+  ],
+  "172": [
+    {"id":338,"name":"Dushanbe","country_id":172}
+  ],
+  "173": [
+    {"id":339,"name":"Dar es Salaam","country_id":173},
+    {"id":340,"name":"Dodoma","country_id":173}
+  ],
+  "174": [
+    {"id":341,"name":"Bangkok","country_id":174}
+  ],
+  "175": [
+    {"id":342,"name":"Lomé","country_id":175}
+  ],
+  "176": [
+    {"id":343,"name":"Nukuʻalofa","country_id":176}
+  ],
+  "177": [
+    {"id":344,"name":"Port of Spain","country_id":177}
+  ],
+  "178": [
+    {"id":345,"name":"Tunis","country_id":178}
+  ],
+  "179": [
+    {"id":346,"name":"Ankara","country_id":179},
+    {"id":347,"name":"Istanbul","country_id":179},
+    {"id":348,"name":"Izmir","country_id":179}
+  ],
+  "180": [
+    {"id":349,"name":"Ashgabat","country_id":180}
+  ],
+  "181": [
+    {"id":350,"name":"Funafuti","country_id":181}
+  ],
+  "182": [
+    {"id":351,"name":"Kampala","country_id":182}
+  ],
+  "183": [
+    {"id":352,"name":"Kyiv","country_id":183}
+  ],
+  "185": [
+    {"id":353,"name":"London","country_id":185},
+    {"id":354,"name":"Manchester","country_id":185},
+    {"id":355,"name":"Birmingham","country_id":185}
+  ],
+  "186": [
+    {"id":356,"name":"Washington, D.C.","country_id":186},
+    {"id":357,"name":"New York City","country_id":186},
+    {"id":358,"name":"Los Angeles","country_id":186},
+    {"id":359,"name":"Chicago","country_id":186}
+  ],
+  "187": [
+    {"id":360,"name":"Montevideo","country_id":187}
+  ],
+  "188": [
+    {"id":361,"name":"Tashkent","country_id":188}
+  ],
+  "189": [
+    {"id":362,"name":"Port Vila","country_id":189}
+  ],
+  "190": [
+    {"id":363,"name":"Caracas","country_id":190}
+  ],
+  "191": [
+    {"id":364,"name":"Hanoi","country_id":191},
+    {"id":365,"name":"Ho Chi Minh City","country_id":191}
+  ],
+  "192": [
+    {"id":366,"name":"Sana'a","country_id":192}
+  ],
+  "193": [
+    {"id":367,"name":"Lusaka","country_id":193}
+  ],
+  "194": [
+    {"id":368,"name":"Harare","country_id":194}
+  ]
+}
